@@ -1,0 +1,13 @@
+4# ATTENZIONE LA RIGA VUOTA ALLA FINE E' IMPORTANTE
+v -1  1 0  #top-left
+v -1 -1 0  #bottom-left
+v  1  1 0  #top-right
+v  1 -1 0  #bottom-right
+# Texture Coordinates (uv)
+vt 0 0     #bottom-left
+vt 0 1     #top-left
+vt 1 0     #bottom-right
+vt 1 1     #top-right
+f 1/2 2/1 3/4
+f 2/1 4/3 3/4
+ 
