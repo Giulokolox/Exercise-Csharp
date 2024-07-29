@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Objects>
+  <Actors>
+    <Players>
+      <Player id="1">
+        <Position x="2" y="3"></Position>
+        <IsActive value="true"></IsActive>
+      </Player>
+      <!--<Player id="2">
+        <Position x="2" y="7"></Position>
+        <IsActive value="true"></IsActive>
+      </Player>-->
+    </Players>
+    <Enemies>
+      <Enemy id="1">
+        <Position x="18" y="3"></Position>
+        <IsActive value="true"></IsActive>
+      </Enemy>
+      <Enemy id="2">
+        <Position x="18" y="5"></Position>
+        <IsActive value="true"></IsActive>
+      </Enemy>
+      <Enemy id="3">
+        <Position x="18" y="7"></Position>
+        <IsActive value="true"></IsActive>
+      </Enemy>
+    </Enemies>
+  </Actors>
+  <Background>
+    <Position x ="10" y ="5"></Position>
+    <IsActive value ="true"></IsActive>
+  </Background>
+</Objects>
