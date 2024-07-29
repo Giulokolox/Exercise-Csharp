@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c4697716-7ce9-4b53-9f0a-71f088f9fa4e": {
+      "ProjectGuid": "c4697716-7ce9-4b53-9f0a-71f088f9fa4e",
+      "DisplayName": "SpaceShooter",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

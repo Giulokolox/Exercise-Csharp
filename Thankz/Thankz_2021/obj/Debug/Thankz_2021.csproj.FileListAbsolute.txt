@@ -1,0 +1,58 @@
+C:\Users\chiro\source\repos\Thankz_2021\Thankz_2021\obj\Debug\Thankz_2021.csproj.AssemblyReference.cache
+C:\Users\chiro\source\repos\Thankz_2021\Thankz_2021\obj\Debug\Thankz_2021.csproj.CoreCompileInputs.cache
+C:\Users\chiro\source\repos\Thankz_2021\Thankz_2021\bin\Debug\Assets\bullet_ico.png
+C:\Users\chiro\source\repos\Thankz_2021\Thankz_2021\bin\Debug\Assets\comics.png
+C:\Users\chiro\source\repos\Thankz_2021\Thankz_2021\bin\Debug\Assets\crate.png
+C:\Users\chiro\source\repos\Thankz_2021\Thankz_2021\bin\Debug\Assets\loadingBar_bar.png
+C:\Users\chiro\source\repos\Thankz_2021\Thankz_2021\bin\Debug\Assets\loadingBar_frame.png
+C:\Users\chiro\source\repos\Thankz_2021\Thankz_2021\bin\Debug\Assets\missile_ico.png
+C:\Users\chiro\source\repos\Thankz_2021\Thankz_2021\bin\Debug\Assets\tanks_tankGreen_body1.png
+C:\Users\chiro\source\repos\Thankz_2021\Thankz_2021\bin\Debug\Assets\tanks_tankTracks1.png
+C:\Users\chiro\source\repos\Thankz_2021\Thankz_2021\bin\Debug\Assets\tanks_turret2.png
+C:\Users\chiro\source\repos\Thankz_2021\Thankz_2021\bin\Debug\Assets\tank_bullet1.png
+C:\Users\chiro\source\repos\Thankz_2021\Thankz_2021\bin\Debug\Assets\tank_bullet3.png
+C:\Users\chiro\source\repos\Thankz_2021\Thankz_2021\bin\Debug\Assets\textSheet.png
+C:\Users\chiro\source\repos\Thankz_2021\Thankz_2021\bin\Debug\Assets\weapons_GUI_frame.png
+C:\Users\chiro\source\repos\Thankz_2021\Thankz_2021\bin\Debug\Assets\weapon_GUI_selection.png
+C:\Users\chiro\source\repos\Thankz_2021\Thankz_2021\bin\Debug\Thankz_2021.exe.config
+C:\Users\chiro\source\repos\Thankz_2021\Thankz_2021\bin\Debug\Thankz_2021.exe
+C:\Users\chiro\source\repos\Thankz_2021\Thankz_2021\bin\Debug\Thankz_2021.pdb
+C:\Users\chiro\source\repos\Thankz_2021\Thankz_2021\bin\Debug\aiv-fast2d.dll
+C:\Users\chiro\source\repos\Thankz_2021\Thankz_2021\bin\Debug\OpenTK.dll
+C:\Users\chiro\source\repos\Thankz_2021\Thankz_2021\bin\Debug\OpenTK.pdb
+C:\Users\chiro\source\repos\Thankz_2021\Thankz_2021\bin\Debug\OpenTK.xml
+C:\Users\chiro\source\repos\Thankz_2021\Thankz_2021\obj\Debug\Thankz_2021.csproj.CopyComplete
+C:\Users\chiro\source\repos\Thankz_2021\Thankz_2021\obj\Debug\Thankz_2021.exe
+C:\Users\chiro\source\repos\Thankz_2021\Thankz_2021\obj\Debug\Thankz_2021.pdb
+C:\Users\chiro\source\repos\Thankz_2021\Thankz_2021\bin\Debug\Assets\bg_1.png
+C:\Users\chiro\source\repos\Thankz_2021\Thankz_2021\bin\Debug\Assets\bg_0.png
+C:\Users\chiro\source\repos\Thankz_2021\Thankz_2021\bin\Debug\Assets\bg_2.png
+D:\Video AIV\scuola (Importante)\AIV Primo anno\File inviati\Thankz_2021\Thankz_2021\bin\Debug\Assets\bg_1.png
+D:\Video AIV\scuola (Importante)\AIV Primo anno\File inviati\Thankz_2021\Thankz_2021\bin\Debug\Assets\bg_0.png
+D:\Video AIV\scuola (Importante)\AIV Primo anno\File inviati\Thankz_2021\Thankz_2021\bin\Debug\Assets\bg_2.png
+D:\Video AIV\scuola (Importante)\AIV Primo anno\File inviati\Thankz_2021\Thankz_2021\bin\Debug\Assets\bullet_ico.png
+D:\Video AIV\scuola (Importante)\AIV Primo anno\File inviati\Thankz_2021\Thankz_2021\bin\Debug\Assets\comics.png
+D:\Video AIV\scuola (Importante)\AIV Primo anno\File inviati\Thankz_2021\Thankz_2021\bin\Debug\Assets\crate.png
+D:\Video AIV\scuola (Importante)\AIV Primo anno\File inviati\Thankz_2021\Thankz_2021\bin\Debug\Assets\loadingBar_bar.png
+D:\Video AIV\scuola (Importante)\AIV Primo anno\File inviati\Thankz_2021\Thankz_2021\bin\Debug\Assets\loadingBar_frame.png
+D:\Video AIV\scuola (Importante)\AIV Primo anno\File inviati\Thankz_2021\Thankz_2021\bin\Debug\Assets\missile_ico.png
+D:\Video AIV\scuola (Importante)\AIV Primo anno\File inviati\Thankz_2021\Thankz_2021\bin\Debug\Assets\tanks_tankGreen_body1.png
+D:\Video AIV\scuola (Importante)\AIV Primo anno\File inviati\Thankz_2021\Thankz_2021\bin\Debug\Assets\tanks_tankTracks1.png
+D:\Video AIV\scuola (Importante)\AIV Primo anno\File inviati\Thankz_2021\Thankz_2021\bin\Debug\Assets\tanks_turret2.png
+D:\Video AIV\scuola (Importante)\AIV Primo anno\File inviati\Thankz_2021\Thankz_2021\bin\Debug\Assets\tank_bullet1.png
+D:\Video AIV\scuola (Importante)\AIV Primo anno\File inviati\Thankz_2021\Thankz_2021\bin\Debug\Assets\tank_bullet3.png
+D:\Video AIV\scuola (Importante)\AIV Primo anno\File inviati\Thankz_2021\Thankz_2021\bin\Debug\Assets\textSheet.png
+D:\Video AIV\scuola (Importante)\AIV Primo anno\File inviati\Thankz_2021\Thankz_2021\bin\Debug\Assets\weapons_GUI_frame.png
+D:\Video AIV\scuola (Importante)\AIV Primo anno\File inviati\Thankz_2021\Thankz_2021\bin\Debug\Assets\weapon_GUI_selection.png
+D:\Video AIV\scuola (Importante)\AIV Primo anno\File inviati\Thankz_2021\Thankz_2021\bin\Debug\Thankz_2021.exe.config
+D:\Video AIV\scuola (Importante)\AIV Primo anno\File inviati\Thankz_2021\Thankz_2021\bin\Debug\Thankz_2021.exe
+D:\Video AIV\scuola (Importante)\AIV Primo anno\File inviati\Thankz_2021\Thankz_2021\bin\Debug\Thankz_2021.pdb
+D:\Video AIV\scuola (Importante)\AIV Primo anno\File inviati\Thankz_2021\Thankz_2021\bin\Debug\aiv-fast2d.dll
+D:\Video AIV\scuola (Importante)\AIV Primo anno\File inviati\Thankz_2021\Thankz_2021\bin\Debug\OpenTK.dll
+D:\Video AIV\scuola (Importante)\AIV Primo anno\File inviati\Thankz_2021\Thankz_2021\bin\Debug\OpenTK.pdb
+D:\Video AIV\scuola (Importante)\AIV Primo anno\File inviati\Thankz_2021\Thankz_2021\bin\Debug\OpenTK.xml
+D:\Video AIV\scuola (Importante)\AIV Primo anno\File inviati\Thankz_2021\Thankz_2021\obj\Debug\Thankz_2021.csproj.AssemblyReference.cache
+D:\Video AIV\scuola (Importante)\AIV Primo anno\File inviati\Thankz_2021\Thankz_2021\obj\Debug\Thankz_2021.csproj.CoreCompileInputs.cache
+D:\Video AIV\scuola (Importante)\AIV Primo anno\File inviati\Thankz_2021\Thankz_2021\obj\Debug\Thankz_2.58243A24.Up2Date
+D:\Video AIV\scuola (Importante)\AIV Primo anno\File inviati\Thankz_2021\Thankz_2021\obj\Debug\Thankz_2021.exe
+D:\Video AIV\scuola (Importante)\AIV Primo anno\File inviati\Thankz_2021\Thankz_2021\obj\Debug\Thankz_2021.pdb

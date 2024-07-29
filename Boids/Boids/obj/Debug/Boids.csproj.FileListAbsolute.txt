@@ -1,0 +1,27 @@
+C:\Users\Giuliano Kola\Desktop\Boids\Boids\bin\Debug\Boids.exe.config
+C:\Users\Giuliano Kola\Desktop\Boids\Boids\bin\Debug\Boids.exe
+C:\Users\Giuliano Kola\Desktop\Boids\Boids\bin\Debug\Boids.pdb
+C:\Users\Giuliano Kola\Desktop\Boids\Boids\bin\Debug\aiv-fast2d.dll
+C:\Users\Giuliano Kola\Desktop\Boids\Boids\bin\Debug\OpenTK.dll
+C:\Users\Giuliano Kola\Desktop\Boids\Boids\bin\Debug\OpenTK.pdb
+C:\Users\Giuliano Kola\Desktop\Boids\Boids\bin\Debug\OpenTK.xml
+C:\Users\Giuliano Kola\Desktop\Boids\Boids\obj\Debug\Boids.csproj.AssemblyReference.cache
+C:\Users\Giuliano Kola\Desktop\Boids\Boids\obj\Debug\Boids.csproj.SuggestedBindingRedirects.cache
+C:\Users\Giuliano Kola\Desktop\Boids\Boids\obj\Debug\Boids.csproj.CoreCompileInputs.cache
+C:\Users\Giuliano Kola\Desktop\Boids\Boids\obj\Debug\Boids.csproj.CopyComplete
+C:\Users\Giuliano Kola\Desktop\Boids\Boids\obj\Debug\Boids.exe
+C:\Users\Giuliano Kola\Desktop\Boids\Boids\obj\Debug\Boids.pdb
+C:\Users\Giuliano Kola\Desktop\Boids\Boids\bin\Debug\Assets\boid.png
+D:\Video AIV\scuola (Importante)\AIV Primo anno\Esercizi\Boids\Boids\bin\Debug\Assets\boid.png
+D:\Video AIV\scuola (Importante)\AIV Primo anno\Esercizi\Boids\Boids\bin\Debug\Boids.exe.config
+D:\Video AIV\scuola (Importante)\AIV Primo anno\Esercizi\Boids\Boids\bin\Debug\Boids.exe
+D:\Video AIV\scuola (Importante)\AIV Primo anno\Esercizi\Boids\Boids\bin\Debug\Boids.pdb
+D:\Video AIV\scuola (Importante)\AIV Primo anno\Esercizi\Boids\Boids\bin\Debug\aiv-fast2d.dll
+D:\Video AIV\scuola (Importante)\AIV Primo anno\Esercizi\Boids\Boids\bin\Debug\OpenTK.dll
+D:\Video AIV\scuola (Importante)\AIV Primo anno\Esercizi\Boids\Boids\bin\Debug\OpenTK.pdb
+D:\Video AIV\scuola (Importante)\AIV Primo anno\Esercizi\Boids\Boids\bin\Debug\OpenTK.xml
+D:\Video AIV\scuola (Importante)\AIV Primo anno\Esercizi\Boids\Boids\obj\Debug\Boids.csproj.AssemblyReference.cache
+D:\Video AIV\scuola (Importante)\AIV Primo anno\Esercizi\Boids\Boids\obj\Debug\Boids.csproj.CoreCompileInputs.cache
+D:\Video AIV\scuola (Importante)\AIV Primo anno\Esercizi\Boids\Boids\obj\Debug\Boids.csproj.Up2Date
+D:\Video AIV\scuola (Importante)\AIV Primo anno\Esercizi\Boids\Boids\obj\Debug\Boids.exe
+D:\Video AIV\scuola (Importante)\AIV Primo anno\Esercizi\Boids\Boids\obj\Debug\Boids.pdb

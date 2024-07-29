@@ -1,0 +1,244 @@
+D:\AIV - 2021 - 2022\Lessons\PR 1\Heads_2021\Heads_2021\bin\Debug\Assets\comics.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\Heads_2021\Heads_2021\bin\Debug\Assets\enemy_0.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\Heads_2021\Heads_2021\bin\Debug\Assets\enemy_1.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\Heads_2021\Heads_2021\bin\Debug\Assets\fireball.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\Heads_2021\Heads_2021\bin\Debug\Assets\heart.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\Heads_2021\Heads_2021\bin\Debug\Assets\hex_grid_green.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\Heads_2021\Heads_2021\bin\Debug\Assets\Levels\crate.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\Heads_2021\Heads_2021\bin\Debug\Assets\Levels\earth.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\Heads_2021\Heads_2021\bin\Debug\Assets\Levels\earthGrass.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\Heads_2021\Heads_2021\bin\Debug\Assets\Levels\stone.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\Heads_2021\Heads_2021\bin\Debug\Assets\loadingBar_bar.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\Heads_2021\Heads_2021\bin\Debug\Assets\loadingBar_frame.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\Heads_2021\Heads_2021\bin\Debug\Assets\player_1.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\Heads_2021\Heads_2021\bin\Debug\Assets\player_2.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\Heads_2021\Heads_2021\bin\Debug\Assets\textSheet.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\Heads_2021\Heads_2021\bin\Debug\Heads_2021.exe.config
+D:\AIV - 2021 - 2022\Lessons\PR 1\Heads_2021\Heads_2021\bin\Debug\Heads_2021.exe
+D:\AIV - 2021 - 2022\Lessons\PR 1\Heads_2021\Heads_2021\bin\Debug\Heads_2021.pdb
+D:\AIV - 2021 - 2022\Lessons\PR 1\Heads_2021\Heads_2021\bin\Debug\aiv-fast2d.dll
+D:\AIV - 2021 - 2022\Lessons\PR 1\Heads_2021\Heads_2021\bin\Debug\OpenTK.dll
+D:\AIV - 2021 - 2022\Lessons\PR 1\Heads_2021\Heads_2021\bin\Debug\OpenTK.pdb
+D:\AIV - 2021 - 2022\Lessons\PR 1\Heads_2021\Heads_2021\bin\Debug\OpenTK.xml
+D:\AIV - 2021 - 2022\Lessons\PR 1\Heads_2021\Heads_2021\obj\Debug\Heads_2021.csproj.AssemblyReference.cache
+D:\AIV - 2021 - 2022\Lessons\PR 1\Heads_2021\Heads_2021\obj\Debug\Heads_2021.csproj.CoreCompileInputs.cache
+D:\AIV - 2021 - 2022\Lessons\PR 1\Heads_2021\Heads_2021\obj\Debug\Heads_2021.csproj.CopyComplete
+D:\AIV - 2021 - 2022\Lessons\PR 1\Heads_2021\Heads_2021\obj\Debug\Heads_2021.exe
+D:\AIV - 2021 - 2022\Lessons\PR 1\Heads_2021\Heads_2021\obj\Debug\Heads_2021.pdb
+C:\Users\chiro\Desktop\52_Lezione_25_03_Heads_ConeAngle\Heads_2021\obj\Debug\Heads_2021.csproj.AssemblyReference.cache
+C:\Users\chiro\Desktop\52_Lezione_25_03_Heads_ConeAngle\Heads_2021\obj\Debug\Heads_2021.csproj.CoreCompileInputs.cache
+C:\Users\chiro\Desktop\52_Lezione_25_03_Heads_ConeAngle\Heads_2021\obj\Debug\Heads_2021.exe
+C:\Users\chiro\Desktop\52_Lezione_25_03_Heads_ConeAngle\Heads_2021\obj\Debug\Heads_2021.pdb
+C:\Users\chiro\Desktop\52_Lezione_25_03_Heads_ConeAngle\Heads_2021\bin\Debug\Assets\comics.png
+C:\Users\chiro\Desktop\52_Lezione_25_03_Heads_ConeAngle\Heads_2021\bin\Debug\Assets\enemy_0.png
+C:\Users\chiro\Desktop\52_Lezione_25_03_Heads_ConeAngle\Heads_2021\bin\Debug\Assets\enemy_1.png
+C:\Users\chiro\Desktop\52_Lezione_25_03_Heads_ConeAngle\Heads_2021\bin\Debug\Assets\fireball.png
+C:\Users\chiro\Desktop\52_Lezione_25_03_Heads_ConeAngle\Heads_2021\bin\Debug\Assets\heart.png
+C:\Users\chiro\Desktop\52_Lezione_25_03_Heads_ConeAngle\Heads_2021\bin\Debug\Assets\hex_grid_green.png
+C:\Users\chiro\Desktop\52_Lezione_25_03_Heads_ConeAngle\Heads_2021\bin\Debug\Assets\Levels\crate.png
+C:\Users\chiro\Desktop\52_Lezione_25_03_Heads_ConeAngle\Heads_2021\bin\Debug\Assets\Levels\earth.png
+C:\Users\chiro\Desktop\52_Lezione_25_03_Heads_ConeAngle\Heads_2021\bin\Debug\Assets\Levels\earthGrass.png
+C:\Users\chiro\Desktop\52_Lezione_25_03_Heads_ConeAngle\Heads_2021\bin\Debug\Assets\Levels\stone.png
+C:\Users\chiro\Desktop\52_Lezione_25_03_Heads_ConeAngle\Heads_2021\bin\Debug\Assets\loadingBar_bar.png
+C:\Users\chiro\Desktop\52_Lezione_25_03_Heads_ConeAngle\Heads_2021\bin\Debug\Assets\loadingBar_frame.png
+C:\Users\chiro\Desktop\52_Lezione_25_03_Heads_ConeAngle\Heads_2021\bin\Debug\Assets\player_1.png
+C:\Users\chiro\Desktop\52_Lezione_25_03_Heads_ConeAngle\Heads_2021\bin\Debug\Assets\player_2.png
+C:\Users\chiro\Desktop\52_Lezione_25_03_Heads_ConeAngle\Heads_2021\bin\Debug\Assets\textSheet.png
+C:\Users\chiro\Desktop\52_Lezione_25_03_Heads_ConeAngle\Heads_2021\bin\Debug\Heads_2021.exe.config
+C:\Users\chiro\Desktop\52_Lezione_25_03_Heads_ConeAngle\Heads_2021\bin\Debug\Heads_2021.exe
+C:\Users\chiro\Desktop\52_Lezione_25_03_Heads_ConeAngle\Heads_2021\bin\Debug\Heads_2021.pdb
+C:\Users\chiro\Desktop\52_Lezione_25_03_Heads_ConeAngle\Heads_2021\bin\Debug\aiv-fast2d.dll
+C:\Users\chiro\Desktop\52_Lezione_25_03_Heads_ConeAngle\Heads_2021\bin\Debug\OpenTK.dll
+C:\Users\chiro\Desktop\52_Lezione_25_03_Heads_ConeAngle\Heads_2021\bin\Debug\OpenTK.pdb
+C:\Users\chiro\Desktop\52_Lezione_25_03_Heads_ConeAngle\Heads_2021\bin\Debug\OpenTK.xml
+C:\Users\chiro\Desktop\52_Lezione_25_03_Heads_ConeAngle\Heads_2021\obj\Debug\Heads_2021.csproj.CopyComplete
+D:\AIV - 2021 - 2022\Lessons\PR 1\55_Lezione_01_04_Heads_GetBestPlayerToFight\Heads_2021\bin\Debug\Assets\comics.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\55_Lezione_01_04_Heads_GetBestPlayerToFight\Heads_2021\bin\Debug\Assets\enemy_0.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\55_Lezione_01_04_Heads_GetBestPlayerToFight\Heads_2021\bin\Debug\Assets\enemy_1.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\55_Lezione_01_04_Heads_GetBestPlayerToFight\Heads_2021\bin\Debug\Assets\fireball.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\55_Lezione_01_04_Heads_GetBestPlayerToFight\Heads_2021\bin\Debug\Assets\heart.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\55_Lezione_01_04_Heads_GetBestPlayerToFight\Heads_2021\bin\Debug\Assets\hex_grid_green.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\55_Lezione_01_04_Heads_GetBestPlayerToFight\Heads_2021\bin\Debug\Assets\Levels\crate.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\55_Lezione_01_04_Heads_GetBestPlayerToFight\Heads_2021\bin\Debug\Assets\Levels\earth.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\55_Lezione_01_04_Heads_GetBestPlayerToFight\Heads_2021\bin\Debug\Assets\Levels\earthGrass.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\55_Lezione_01_04_Heads_GetBestPlayerToFight\Heads_2021\bin\Debug\Assets\Levels\stone.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\55_Lezione_01_04_Heads_GetBestPlayerToFight\Heads_2021\bin\Debug\Assets\loadingBar_bar.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\55_Lezione_01_04_Heads_GetBestPlayerToFight\Heads_2021\bin\Debug\Assets\loadingBar_frame.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\55_Lezione_01_04_Heads_GetBestPlayerToFight\Heads_2021\bin\Debug\Assets\player_1.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\55_Lezione_01_04_Heads_GetBestPlayerToFight\Heads_2021\bin\Debug\Assets\player_2.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\55_Lezione_01_04_Heads_GetBestPlayerToFight\Heads_2021\bin\Debug\Assets\textSheet.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\55_Lezione_01_04_Heads_GetBestPlayerToFight\Heads_2021\bin\Debug\Heads_2021.exe.config
+D:\AIV - 2021 - 2022\Lessons\PR 1\55_Lezione_01_04_Heads_GetBestPlayerToFight\Heads_2021\bin\Debug\Heads_2021.exe
+D:\AIV - 2021 - 2022\Lessons\PR 1\55_Lezione_01_04_Heads_GetBestPlayerToFight\Heads_2021\bin\Debug\Heads_2021.pdb
+D:\AIV - 2021 - 2022\Lessons\PR 1\55_Lezione_01_04_Heads_GetBestPlayerToFight\Heads_2021\bin\Debug\aiv-fast2d.dll
+D:\AIV - 2021 - 2022\Lessons\PR 1\55_Lezione_01_04_Heads_GetBestPlayerToFight\Heads_2021\bin\Debug\OpenTK.dll
+D:\AIV - 2021 - 2022\Lessons\PR 1\55_Lezione_01_04_Heads_GetBestPlayerToFight\Heads_2021\bin\Debug\OpenTK.pdb
+D:\AIV - 2021 - 2022\Lessons\PR 1\55_Lezione_01_04_Heads_GetBestPlayerToFight\Heads_2021\bin\Debug\OpenTK.xml
+D:\AIV - 2021 - 2022\Lessons\PR 1\55_Lezione_01_04_Heads_GetBestPlayerToFight\Heads_2021\obj\Debug\Heads_2021.csproj.AssemblyReference.cache
+D:\AIV - 2021 - 2022\Lessons\PR 1\55_Lezione_01_04_Heads_GetBestPlayerToFight\Heads_2021\obj\Debug\Heads_2021.csproj.CoreCompileInputs.cache
+D:\AIV - 2021 - 2022\Lessons\PR 1\55_Lezione_01_04_Heads_GetBestPlayerToFight\Heads_2021\obj\Debug\Heads_2021.exe
+D:\AIV - 2021 - 2022\Lessons\PR 1\55_Lezione_01_04_Heads_GetBestPlayerToFight\Heads_2021\obj\Debug\Heads_2021.pdb
+D:\AIV - 2021 - 2022\Lessons\PR 1\57_Lezione_06_04_Heads_Recharge\Heads_2021\bin\Debug\Assets\comics.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\57_Lezione_06_04_Heads_Recharge\Heads_2021\bin\Debug\Assets\enemy_0.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\57_Lezione_06_04_Heads_Recharge\Heads_2021\bin\Debug\Assets\enemy_1.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\57_Lezione_06_04_Heads_Recharge\Heads_2021\bin\Debug\Assets\fireball.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\57_Lezione_06_04_Heads_Recharge\Heads_2021\bin\Debug\Assets\heart.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\57_Lezione_06_04_Heads_Recharge\Heads_2021\bin\Debug\Assets\hex_grid_green.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\57_Lezione_06_04_Heads_Recharge\Heads_2021\bin\Debug\Assets\Levels\crate.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\57_Lezione_06_04_Heads_Recharge\Heads_2021\bin\Debug\Assets\Levels\earth.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\57_Lezione_06_04_Heads_Recharge\Heads_2021\bin\Debug\Assets\Levels\earthGrass.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\57_Lezione_06_04_Heads_Recharge\Heads_2021\bin\Debug\Assets\Levels\stone.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\57_Lezione_06_04_Heads_Recharge\Heads_2021\bin\Debug\Assets\loadingBar_bar.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\57_Lezione_06_04_Heads_Recharge\Heads_2021\bin\Debug\Assets\loadingBar_frame.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\57_Lezione_06_04_Heads_Recharge\Heads_2021\bin\Debug\Assets\player_1.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\57_Lezione_06_04_Heads_Recharge\Heads_2021\bin\Debug\Assets\player_2.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\57_Lezione_06_04_Heads_Recharge\Heads_2021\bin\Debug\Assets\textSheet.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\57_Lezione_06_04_Heads_Recharge\Heads_2021\bin\Debug\Heads_2021.exe.config
+D:\AIV - 2021 - 2022\Lessons\PR 1\57_Lezione_06_04_Heads_Recharge\Heads_2021\bin\Debug\Heads_2021.exe
+D:\AIV - 2021 - 2022\Lessons\PR 1\57_Lezione_06_04_Heads_Recharge\Heads_2021\bin\Debug\Heads_2021.pdb
+D:\AIV - 2021 - 2022\Lessons\PR 1\57_Lezione_06_04_Heads_Recharge\Heads_2021\bin\Debug\aiv-fast2d.dll
+D:\AIV - 2021 - 2022\Lessons\PR 1\57_Lezione_06_04_Heads_Recharge\Heads_2021\bin\Debug\OpenTK.dll
+D:\AIV - 2021 - 2022\Lessons\PR 1\57_Lezione_06_04_Heads_Recharge\Heads_2021\bin\Debug\OpenTK.pdb
+D:\AIV - 2021 - 2022\Lessons\PR 1\57_Lezione_06_04_Heads_Recharge\Heads_2021\bin\Debug\OpenTK.xml
+D:\AIV - 2021 - 2022\Lessons\PR 1\57_Lezione_06_04_Heads_Recharge\Heads_2021\obj\Debug\Heads_2021.csproj.AssemblyReference.cache
+D:\AIV - 2021 - 2022\Lessons\PR 1\57_Lezione_06_04_Heads_Recharge\Heads_2021\obj\Debug\Heads_2021.csproj.CoreCompileInputs.cache
+D:\AIV - 2021 - 2022\Lessons\PR 1\57_Lezione_06_04_Heads_Recharge\Heads_2021\obj\Debug\Heads_2021.exe
+D:\AIV - 2021 - 2022\Lessons\PR 1\57_Lezione_06_04_Heads_Recharge\Heads_2021\obj\Debug\Heads_2021.pdb
+D:\AIV - 2021 - 2022\Lessons\PR 1\62_Lezione_06_04_Heads_Pathfinding\Heads_2021\bin\Debug\Assets\comics.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\62_Lezione_06_04_Heads_Pathfinding\Heads_2021\bin\Debug\Assets\enemy_0.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\62_Lezione_06_04_Heads_Pathfinding\Heads_2021\bin\Debug\Assets\enemy_1.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\62_Lezione_06_04_Heads_Pathfinding\Heads_2021\bin\Debug\Assets\fireball.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\62_Lezione_06_04_Heads_Pathfinding\Heads_2021\bin\Debug\Assets\heart.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\62_Lezione_06_04_Heads_Pathfinding\Heads_2021\bin\Debug\Assets\hex_grid_green.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\62_Lezione_06_04_Heads_Pathfinding\Heads_2021\bin\Debug\Assets\Levels\crate.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\62_Lezione_06_04_Heads_Pathfinding\Heads_2021\bin\Debug\Assets\Levels\earth.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\62_Lezione_06_04_Heads_Pathfinding\Heads_2021\bin\Debug\Assets\Levels\earthGrass.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\62_Lezione_06_04_Heads_Pathfinding\Heads_2021\bin\Debug\Assets\Levels\stone.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\62_Lezione_06_04_Heads_Pathfinding\Heads_2021\bin\Debug\Assets\loadingBar_bar.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\62_Lezione_06_04_Heads_Pathfinding\Heads_2021\bin\Debug\Assets\loadingBar_frame.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\62_Lezione_06_04_Heads_Pathfinding\Heads_2021\bin\Debug\Assets\player_1.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\62_Lezione_06_04_Heads_Pathfinding\Heads_2021\bin\Debug\Assets\player_2.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\62_Lezione_06_04_Heads_Pathfinding\Heads_2021\bin\Debug\Assets\textSheet.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\62_Lezione_06_04_Heads_Pathfinding\Heads_2021\bin\Debug\Heads_2021.exe.config
+D:\AIV - 2021 - 2022\Lessons\PR 1\62_Lezione_06_04_Heads_Pathfinding\Heads_2021\bin\Debug\Heads_2021.exe
+D:\AIV - 2021 - 2022\Lessons\PR 1\62_Lezione_06_04_Heads_Pathfinding\Heads_2021\bin\Debug\Heads_2021.pdb
+D:\AIV - 2021 - 2022\Lessons\PR 1\62_Lezione_06_04_Heads_Pathfinding\Heads_2021\bin\Debug\aiv-fast2d.dll
+D:\AIV - 2021 - 2022\Lessons\PR 1\62_Lezione_06_04_Heads_Pathfinding\Heads_2021\bin\Debug\OpenTK.dll
+D:\AIV - 2021 - 2022\Lessons\PR 1\62_Lezione_06_04_Heads_Pathfinding\Heads_2021\bin\Debug\OpenTK.pdb
+D:\AIV - 2021 - 2022\Lessons\PR 1\62_Lezione_06_04_Heads_Pathfinding\Heads_2021\bin\Debug\OpenTK.xml
+D:\AIV - 2021 - 2022\Lessons\PR 1\62_Lezione_06_04_Heads_Pathfinding\Heads_2021\obj\Debug\Heads_2021.csproj.AssemblyReference.cache
+D:\AIV - 2021 - 2022\Lessons\PR 1\62_Lezione_06_04_Heads_Pathfinding\Heads_2021\obj\Debug\Heads_2021.csproj.CoreCompileInputs.cache
+D:\AIV - 2021 - 2022\Lessons\PR 1\62_Lezione_06_04_Heads_Pathfinding\Heads_2021\obj\Debug\Heads_2021.exe
+D:\AIV - 2021 - 2022\Lessons\PR 1\62_Lezione_06_04_Heads_Pathfinding\Heads_2021\obj\Debug\Heads_2021.pdb
+D:\AIV - 2021 - 2022\Lessons\PR 1\64_Lezione_02_05_Heads_Pathfinding_02\Heads_2021\bin\Debug\Assets\comics.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\64_Lezione_02_05_Heads_Pathfinding_02\Heads_2021\bin\Debug\Assets\enemy_0.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\64_Lezione_02_05_Heads_Pathfinding_02\Heads_2021\bin\Debug\Assets\enemy_1.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\64_Lezione_02_05_Heads_Pathfinding_02\Heads_2021\bin\Debug\Assets\fireball.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\64_Lezione_02_05_Heads_Pathfinding_02\Heads_2021\bin\Debug\Assets\heart.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\64_Lezione_02_05_Heads_Pathfinding_02\Heads_2021\bin\Debug\Assets\hex_grid_green.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\64_Lezione_02_05_Heads_Pathfinding_02\Heads_2021\bin\Debug\Assets\Levels\crate.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\64_Lezione_02_05_Heads_Pathfinding_02\Heads_2021\bin\Debug\Assets\Levels\earth.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\64_Lezione_02_05_Heads_Pathfinding_02\Heads_2021\bin\Debug\Assets\Levels\earthGrass.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\64_Lezione_02_05_Heads_Pathfinding_02\Heads_2021\bin\Debug\Assets\Levels\stone.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\64_Lezione_02_05_Heads_Pathfinding_02\Heads_2021\bin\Debug\Assets\loadingBar_bar.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\64_Lezione_02_05_Heads_Pathfinding_02\Heads_2021\bin\Debug\Assets\loadingBar_frame.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\64_Lezione_02_05_Heads_Pathfinding_02\Heads_2021\bin\Debug\Assets\player_1.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\64_Lezione_02_05_Heads_Pathfinding_02\Heads_2021\bin\Debug\Assets\player_2.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\64_Lezione_02_05_Heads_Pathfinding_02\Heads_2021\bin\Debug\Assets\textSheet.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\64_Lezione_02_05_Heads_Pathfinding_02\Heads_2021\bin\Debug\Heads_2021.exe.config
+D:\AIV - 2021 - 2022\Lessons\PR 1\64_Lezione_02_05_Heads_Pathfinding_02\Heads_2021\bin\Debug\Heads_2021.exe
+D:\AIV - 2021 - 2022\Lessons\PR 1\64_Lezione_02_05_Heads_Pathfinding_02\Heads_2021\bin\Debug\Heads_2021.pdb
+D:\AIV - 2021 - 2022\Lessons\PR 1\64_Lezione_02_05_Heads_Pathfinding_02\Heads_2021\bin\Debug\aiv-fast2d.dll
+D:\AIV - 2021 - 2022\Lessons\PR 1\64_Lezione_02_05_Heads_Pathfinding_02\Heads_2021\bin\Debug\OpenTK.dll
+D:\AIV - 2021 - 2022\Lessons\PR 1\64_Lezione_02_05_Heads_Pathfinding_02\Heads_2021\bin\Debug\OpenTK.pdb
+D:\AIV - 2021 - 2022\Lessons\PR 1\64_Lezione_02_05_Heads_Pathfinding_02\Heads_2021\bin\Debug\OpenTK.xml
+D:\AIV - 2021 - 2022\Lessons\PR 1\64_Lezione_02_05_Heads_Pathfinding_02\Heads_2021\obj\Debug\Heads_2021.csproj.AssemblyReference.cache
+D:\AIV - 2021 - 2022\Lessons\PR 1\64_Lezione_02_05_Heads_Pathfinding_02\Heads_2021\obj\Debug\Heads_2021.csproj.CoreCompileInputs.cache
+D:\AIV - 2021 - 2022\Lessons\PR 1\64_Lezione_02_05_Heads_Pathfinding_02\Heads_2021\obj\Debug\Heads_2021.exe
+D:\AIV - 2021 - 2022\Lessons\PR 1\64_Lezione_02_05_Heads_Pathfinding_02\Heads_2021\obj\Debug\Heads_2021.pdb
+D:\AIV - 2021 - 2022\Lessons\PR 1\64_Lezione_02_05_Heads_Pathfinding_02\Heads_2021\bin\Debug\Assets\GameConfig.xml
+D:\AIV - 2021 - 2022\Lessons\PR 1\65_Lezione_04_05_Heads_Pathfinding_03\Heads_2021\bin\Debug\Assets\comics.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\65_Lezione_04_05_Heads_Pathfinding_03\Heads_2021\bin\Debug\Assets\enemy_0.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\65_Lezione_04_05_Heads_Pathfinding_03\Heads_2021\bin\Debug\Assets\enemy_1.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\65_Lezione_04_05_Heads_Pathfinding_03\Heads_2021\bin\Debug\Assets\fireball.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\65_Lezione_04_05_Heads_Pathfinding_03\Heads_2021\bin\Debug\Assets\heart.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\65_Lezione_04_05_Heads_Pathfinding_03\Heads_2021\bin\Debug\Assets\hex_grid_green.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\65_Lezione_04_05_Heads_Pathfinding_03\Heads_2021\bin\Debug\Assets\Levels\crate.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\65_Lezione_04_05_Heads_Pathfinding_03\Heads_2021\bin\Debug\Assets\Levels\earth.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\65_Lezione_04_05_Heads_Pathfinding_03\Heads_2021\bin\Debug\Assets\Levels\earthGrass.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\65_Lezione_04_05_Heads_Pathfinding_03\Heads_2021\bin\Debug\Assets\Levels\stone.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\65_Lezione_04_05_Heads_Pathfinding_03\Heads_2021\bin\Debug\Assets\loadingBar_bar.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\65_Lezione_04_05_Heads_Pathfinding_03\Heads_2021\bin\Debug\Assets\loadingBar_frame.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\65_Lezione_04_05_Heads_Pathfinding_03\Heads_2021\bin\Debug\Assets\player_1.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\65_Lezione_04_05_Heads_Pathfinding_03\Heads_2021\bin\Debug\Assets\player_2.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\65_Lezione_04_05_Heads_Pathfinding_03\Heads_2021\bin\Debug\Assets\textSheet.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\65_Lezione_04_05_Heads_Pathfinding_03\Heads_2021\bin\Debug\Assets\Config\GameConfig.xml
+D:\AIV - 2021 - 2022\Lessons\PR 1\65_Lezione_04_05_Heads_Pathfinding_03\Heads_2021\bin\Debug\Assets\Config\HeadsMap.tmx
+D:\AIV - 2021 - 2022\Lessons\PR 1\65_Lezione_04_05_Heads_Pathfinding_03\Heads_2021\bin\Debug\Heads_2021.exe.config
+D:\AIV - 2021 - 2022\Lessons\PR 1\65_Lezione_04_05_Heads_Pathfinding_03\Heads_2021\bin\Debug\Heads_2021.exe
+D:\AIV - 2021 - 2022\Lessons\PR 1\65_Lezione_04_05_Heads_Pathfinding_03\Heads_2021\bin\Debug\Heads_2021.pdb
+D:\AIV - 2021 - 2022\Lessons\PR 1\65_Lezione_04_05_Heads_Pathfinding_03\Heads_2021\bin\Debug\aiv-fast2d.dll
+D:\AIV - 2021 - 2022\Lessons\PR 1\65_Lezione_04_05_Heads_Pathfinding_03\Heads_2021\bin\Debug\OpenTK.dll
+D:\AIV - 2021 - 2022\Lessons\PR 1\65_Lezione_04_05_Heads_Pathfinding_03\Heads_2021\bin\Debug\OpenTK.pdb
+D:\AIV - 2021 - 2022\Lessons\PR 1\65_Lezione_04_05_Heads_Pathfinding_03\Heads_2021\bin\Debug\OpenTK.xml
+D:\AIV - 2021 - 2022\Lessons\PR 1\65_Lezione_04_05_Heads_Pathfinding_03\Heads_2021\obj\Debug\Heads_2021.csproj.AssemblyReference.cache
+D:\AIV - 2021 - 2022\Lessons\PR 1\65_Lezione_04_05_Heads_Pathfinding_03\Heads_2021\obj\Debug\Heads_2021.csproj.CoreCompileInputs.cache
+D:\AIV - 2021 - 2022\Lessons\PR 1\65_Lezione_04_05_Heads_Pathfinding_03\Heads_2021\obj\Debug\Heads_2021.exe
+D:\AIV - 2021 - 2022\Lessons\PR 1\65_Lezione_04_05_Heads_Pathfinding_03\Heads_2021\obj\Debug\Heads_2021.pdb
+D:\AIV - 2021 - 2022\Lessons\PR 1\67_Lezione_09_05_Heads_Pathfinding_04\Heads_2021\bin\Debug\Assets\comics.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\67_Lezione_09_05_Heads_Pathfinding_04\Heads_2021\bin\Debug\Assets\enemy_0.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\67_Lezione_09_05_Heads_Pathfinding_04\Heads_2021\bin\Debug\Assets\enemy_1.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\67_Lezione_09_05_Heads_Pathfinding_04\Heads_2021\bin\Debug\Assets\fireball.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\67_Lezione_09_05_Heads_Pathfinding_04\Heads_2021\bin\Debug\Assets\Config\GameConfig.xml
+D:\AIV - 2021 - 2022\Lessons\PR 1\67_Lezione_09_05_Heads_Pathfinding_04\Heads_2021\bin\Debug\Assets\heart.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\67_Lezione_09_05_Heads_Pathfinding_04\Heads_2021\bin\Debug\Assets\hex_grid_green.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\67_Lezione_09_05_Heads_Pathfinding_04\Heads_2021\bin\Debug\Assets\Levels\crate.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\67_Lezione_09_05_Heads_Pathfinding_04\Heads_2021\bin\Debug\Assets\Levels\earth.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\67_Lezione_09_05_Heads_Pathfinding_04\Heads_2021\bin\Debug\Assets\Levels\earthGrass.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\67_Lezione_09_05_Heads_Pathfinding_04\Heads_2021\bin\Debug\Assets\Levels\stone.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\67_Lezione_09_05_Heads_Pathfinding_04\Heads_2021\bin\Debug\Assets\loadingBar_bar.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\67_Lezione_09_05_Heads_Pathfinding_04\Heads_2021\bin\Debug\Assets\loadingBar_frame.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\67_Lezione_09_05_Heads_Pathfinding_04\Heads_2021\bin\Debug\Assets\player_1.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\67_Lezione_09_05_Heads_Pathfinding_04\Heads_2021\bin\Debug\Assets\player_2.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\67_Lezione_09_05_Heads_Pathfinding_04\Heads_2021\bin\Debug\Assets\textSheet.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\67_Lezione_09_05_Heads_Pathfinding_04\Heads_2021\bin\Debug\Assets\Config\HeadsMap.tmx
+D:\AIV - 2021 - 2022\Lessons\PR 1\67_Lezione_09_05_Heads_Pathfinding_04\Heads_2021\bin\Debug\Heads_2021.exe.config
+D:\AIV - 2021 - 2022\Lessons\PR 1\67_Lezione_09_05_Heads_Pathfinding_04\Heads_2021\bin\Debug\Heads_2021.exe
+D:\AIV - 2021 - 2022\Lessons\PR 1\67_Lezione_09_05_Heads_Pathfinding_04\Heads_2021\bin\Debug\Heads_2021.pdb
+D:\AIV - 2021 - 2022\Lessons\PR 1\67_Lezione_09_05_Heads_Pathfinding_04\Heads_2021\bin\Debug\aiv-fast2d.dll
+D:\AIV - 2021 - 2022\Lessons\PR 1\67_Lezione_09_05_Heads_Pathfinding_04\Heads_2021\bin\Debug\OpenTK.dll
+D:\AIV - 2021 - 2022\Lessons\PR 1\67_Lezione_09_05_Heads_Pathfinding_04\Heads_2021\bin\Debug\OpenTK.pdb
+D:\AIV - 2021 - 2022\Lessons\PR 1\67_Lezione_09_05_Heads_Pathfinding_04\Heads_2021\bin\Debug\OpenTK.xml
+D:\AIV - 2021 - 2022\Lessons\PR 1\67_Lezione_09_05_Heads_Pathfinding_04\Heads_2021\obj\Debug\Heads_2021.csproj.AssemblyReference.cache
+D:\AIV - 2021 - 2022\Lessons\PR 1\67_Lezione_09_05_Heads_Pathfinding_04\Heads_2021\obj\Debug\Heads_2021.csproj.CoreCompileInputs.cache
+D:\AIV - 2021 - 2022\Lessons\PR 1\67_Lezione_09_05_Heads_Pathfinding_04\Heads_2021\obj\Debug\Heads_2021.exe
+D:\AIV - 2021 - 2022\Lessons\PR 1\67_Lezione_09_05_Heads_Pathfinding_04\Heads_2021\obj\Debug\Heads_2021.pdb
+D:\Video AIV\scuola (Importante)\AIV Primo anno\File inviati\67_Lezione_09_05_Heads_Pathfinding_04\Heads_2021\bin\Debug\Assets\comics.png
+D:\Video AIV\scuola (Importante)\AIV Primo anno\File inviati\67_Lezione_09_05_Heads_Pathfinding_04\Heads_2021\bin\Debug\Assets\enemy_0.png
+D:\Video AIV\scuola (Importante)\AIV Primo anno\File inviati\67_Lezione_09_05_Heads_Pathfinding_04\Heads_2021\bin\Debug\Assets\enemy_1.png
+D:\Video AIV\scuola (Importante)\AIV Primo anno\File inviati\67_Lezione_09_05_Heads_Pathfinding_04\Heads_2021\bin\Debug\Assets\fireball.png
+D:\Video AIV\scuola (Importante)\AIV Primo anno\File inviati\67_Lezione_09_05_Heads_Pathfinding_04\Heads_2021\bin\Debug\Assets\Config\GameConfig.xml
+D:\Video AIV\scuola (Importante)\AIV Primo anno\File inviati\67_Lezione_09_05_Heads_Pathfinding_04\Heads_2021\bin\Debug\Assets\heart.png
+D:\Video AIV\scuola (Importante)\AIV Primo anno\File inviati\67_Lezione_09_05_Heads_Pathfinding_04\Heads_2021\bin\Debug\Assets\hex_grid_green.png
+D:\Video AIV\scuola (Importante)\AIV Primo anno\File inviati\67_Lezione_09_05_Heads_Pathfinding_04\Heads_2021\bin\Debug\Assets\Levels\crate.png
+D:\Video AIV\scuola (Importante)\AIV Primo anno\File inviati\67_Lezione_09_05_Heads_Pathfinding_04\Heads_2021\bin\Debug\Assets\Levels\earth.png
+D:\Video AIV\scuola (Importante)\AIV Primo anno\File inviati\67_Lezione_09_05_Heads_Pathfinding_04\Heads_2021\bin\Debug\Assets\Levels\earthGrass.png
+D:\Video AIV\scuola (Importante)\AIV Primo anno\File inviati\67_Lezione_09_05_Heads_Pathfinding_04\Heads_2021\bin\Debug\Assets\Levels\stone.png
+D:\Video AIV\scuola (Importante)\AIV Primo anno\File inviati\67_Lezione_09_05_Heads_Pathfinding_04\Heads_2021\bin\Debug\Assets\loadingBar_bar.png
+D:\Video AIV\scuola (Importante)\AIV Primo anno\File inviati\67_Lezione_09_05_Heads_Pathfinding_04\Heads_2021\bin\Debug\Assets\loadingBar_frame.png
+D:\Video AIV\scuola (Importante)\AIV Primo anno\File inviati\67_Lezione_09_05_Heads_Pathfinding_04\Heads_2021\bin\Debug\Assets\player_1.png
+D:\Video AIV\scuola (Importante)\AIV Primo anno\File inviati\67_Lezione_09_05_Heads_Pathfinding_04\Heads_2021\bin\Debug\Assets\player_2.png
+D:\Video AIV\scuola (Importante)\AIV Primo anno\File inviati\67_Lezione_09_05_Heads_Pathfinding_04\Heads_2021\bin\Debug\Assets\textSheet.png
+D:\Video AIV\scuola (Importante)\AIV Primo anno\File inviati\67_Lezione_09_05_Heads_Pathfinding_04\Heads_2021\bin\Debug\Assets\Config\HeadsMap.tmx
+D:\Video AIV\scuola (Importante)\AIV Primo anno\File inviati\67_Lezione_09_05_Heads_Pathfinding_04\Heads_2021\bin\Debug\Heads_2021.exe.config
+D:\Video AIV\scuola (Importante)\AIV Primo anno\File inviati\67_Lezione_09_05_Heads_Pathfinding_04\Heads_2021\bin\Debug\Heads_2021.exe
+D:\Video AIV\scuola (Importante)\AIV Primo anno\File inviati\67_Lezione_09_05_Heads_Pathfinding_04\Heads_2021\bin\Debug\Heads_2021.pdb
+D:\Video AIV\scuola (Importante)\AIV Primo anno\File inviati\67_Lezione_09_05_Heads_Pathfinding_04\Heads_2021\bin\Debug\aiv-fast2d.dll
+D:\Video AIV\scuola (Importante)\AIV Primo anno\File inviati\67_Lezione_09_05_Heads_Pathfinding_04\Heads_2021\bin\Debug\OpenTK.dll
+D:\Video AIV\scuola (Importante)\AIV Primo anno\File inviati\67_Lezione_09_05_Heads_Pathfinding_04\Heads_2021\bin\Debug\OpenTK.pdb
+D:\Video AIV\scuola (Importante)\AIV Primo anno\File inviati\67_Lezione_09_05_Heads_Pathfinding_04\Heads_2021\bin\Debug\OpenTK.xml
+D:\Video AIV\scuola (Importante)\AIV Primo anno\File inviati\67_Lezione_09_05_Heads_Pathfinding_04\Heads_2021\obj\Debug\Heads_2021.csproj.AssemblyReference.cache
+D:\Video AIV\scuola (Importante)\AIV Primo anno\File inviati\67_Lezione_09_05_Heads_Pathfinding_04\Heads_2021\obj\Debug\Heads_2021.csproj.CoreCompileInputs.cache
+D:\Video AIV\scuola (Importante)\AIV Primo anno\File inviati\67_Lezione_09_05_Heads_Pathfinding_04\Heads_2021\obj\Debug\Heads_2021.csproj.Up2Date
+D:\Video AIV\scuola (Importante)\AIV Primo anno\File inviati\67_Lezione_09_05_Heads_Pathfinding_04\Heads_2021\obj\Debug\Heads_2021.exe
+D:\Video AIV\scuola (Importante)\AIV Primo anno\File inviati\67_Lezione_09_05_Heads_Pathfinding_04\Heads_2021\obj\Debug\Heads_2021.pdb
