@@ -1,0 +1,600 @@
+D:\AIV - 2021 - 2022\Lessons\PR 1\23_Lezione_22_12_SpaceShooter_Player\SpaceShooter\SpaceShooter\bin\Debug\SpaceShooter.exe.config
+D:\AIV - 2021 - 2022\Lessons\PR 1\23_Lezione_22_12_SpaceShooter_Player\SpaceShooter\SpaceShooter\bin\Debug\SpaceShooter.exe
+D:\AIV - 2021 - 2022\Lessons\PR 1\23_Lezione_22_12_SpaceShooter_Player\SpaceShooter\SpaceShooter\bin\Debug\SpaceShooter.pdb
+D:\AIV - 2021 - 2022\Lessons\PR 1\23_Lezione_22_12_SpaceShooter_Player\SpaceShooter\SpaceShooter\bin\Debug\aiv-fast2d.dll
+D:\AIV - 2021 - 2022\Lessons\PR 1\23_Lezione_22_12_SpaceShooter_Player\SpaceShooter\SpaceShooter\bin\Debug\OpenTK.dll
+D:\AIV - 2021 - 2022\Lessons\PR 1\23_Lezione_22_12_SpaceShooter_Player\SpaceShooter\SpaceShooter\bin\Debug\OpenTK.pdb
+D:\AIV - 2021 - 2022\Lessons\PR 1\23_Lezione_22_12_SpaceShooter_Player\SpaceShooter\SpaceShooter\bin\Debug\OpenTK.xml
+D:\AIV - 2021 - 2022\Lessons\PR 1\23_Lezione_22_12_SpaceShooter_Player\SpaceShooter\SpaceShooter\obj\Debug\SpaceShooter.csproj.AssemblyReference.cache
+D:\AIV - 2021 - 2022\Lessons\PR 1\23_Lezione_22_12_SpaceShooter_Player\SpaceShooter\SpaceShooter\obj\Debug\SpaceShooter.csproj.CoreCompileInputs.cache
+D:\AIV - 2021 - 2022\Lessons\PR 1\23_Lezione_22_12_SpaceShooter_Player\SpaceShooter\SpaceShooter\obj\Debug\SpaceShooter.exe
+D:\AIV - 2021 - 2022\Lessons\PR 1\23_Lezione_22_12_SpaceShooter_Player\SpaceShooter\SpaceShooter\obj\Debug\SpaceShooter.pdb
+D:\AIV - 2021 - 2022\Lessons\PR 1\23_Lezione_22_12_SpaceShooter_Player\SpaceShooter\SpaceShooter\bin\Debug\Assets\aivBG.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\23_Lezione_22_12_SpaceShooter_Player\SpaceShooter\SpaceShooter\bin\Debug\Assets\beams.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\23_Lezione_22_12_SpaceShooter_Player\SpaceShooter\SpaceShooter\bin\Debug\Assets\big_ship.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\23_Lezione_22_12_SpaceShooter_Player\SpaceShooter\SpaceShooter\bin\Debug\Assets\blueLaser.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\23_Lezione_22_12_SpaceShooter_Player\SpaceShooter\SpaceShooter\bin\Debug\Assets\comics.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\23_Lezione_22_12_SpaceShooter_Player\SpaceShooter\SpaceShooter\bin\Debug\Assets\enemy_ship.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\23_Lezione_22_12_SpaceShooter_Player\SpaceShooter\SpaceShooter\bin\Debug\Assets\fireGlobe.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\23_Lezione_22_12_SpaceShooter_Player\SpaceShooter\SpaceShooter\bin\Debug\Assets\gameOverBg.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\23_Lezione_22_12_SpaceShooter_Player\SpaceShooter\SpaceShooter\bin\Debug\Assets\greenGlobe.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\23_Lezione_22_12_SpaceShooter_Player\SpaceShooter\SpaceShooter\bin\Debug\Assets\greenLaser.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\23_Lezione_22_12_SpaceShooter_Player\SpaceShooter\SpaceShooter\bin\Debug\Assets\loadingBar_bar.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\23_Lezione_22_12_SpaceShooter_Player\SpaceShooter\SpaceShooter\bin\Debug\Assets\loadingBar_frame.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\23_Lezione_22_12_SpaceShooter_Player\SpaceShooter\SpaceShooter\bin\Debug\Assets\player_ship.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\23_Lezione_22_12_SpaceShooter_Player\SpaceShooter\SpaceShooter\bin\Debug\Assets\powerUp_battery.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\23_Lezione_22_12_SpaceShooter_Player\SpaceShooter\SpaceShooter\bin\Debug\Assets\powerUp_triple.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\23_Lezione_22_12_SpaceShooter_Player\SpaceShooter\SpaceShooter\bin\Debug\Assets\pressEnter.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\23_Lezione_22_12_SpaceShooter_Player\SpaceShooter\SpaceShooter\bin\Debug\Assets\redEnemy_ship.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\23_Lezione_22_12_SpaceShooter_Player\SpaceShooter\SpaceShooter\bin\Debug\Assets\spaceBg.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\23_Lezione_22_12_SpaceShooter_Player\SpaceShooter\SpaceShooter\bin\Debug\Assets\textSheet.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\23_Lezione_22_12_SpaceShooter_Player\SpaceShooter\SpaceShooter\bin\Debug\Assets\welcomeBg.jpg
+D:\AIV - 2021 - 2022\Lessons\PR 1\24_Lezione_22_12_SpaceShooter_Player\SpaceShooter\SpaceShooter\bin\Debug\Assets\aivBG.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\24_Lezione_22_12_SpaceShooter_Player\SpaceShooter\SpaceShooter\bin\Debug\Assets\beams.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\24_Lezione_22_12_SpaceShooter_Player\SpaceShooter\SpaceShooter\bin\Debug\Assets\big_ship.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\24_Lezione_22_12_SpaceShooter_Player\SpaceShooter\SpaceShooter\bin\Debug\Assets\blueLaser.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\24_Lezione_22_12_SpaceShooter_Player\SpaceShooter\SpaceShooter\bin\Debug\Assets\comics.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\24_Lezione_22_12_SpaceShooter_Player\SpaceShooter\SpaceShooter\bin\Debug\Assets\enemy_ship.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\24_Lezione_22_12_SpaceShooter_Player\SpaceShooter\SpaceShooter\bin\Debug\Assets\fireGlobe.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\24_Lezione_22_12_SpaceShooter_Player\SpaceShooter\SpaceShooter\bin\Debug\Assets\gameOverBg.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\24_Lezione_22_12_SpaceShooter_Player\SpaceShooter\SpaceShooter\bin\Debug\Assets\greenGlobe.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\24_Lezione_22_12_SpaceShooter_Player\SpaceShooter\SpaceShooter\bin\Debug\Assets\greenLaser.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\24_Lezione_22_12_SpaceShooter_Player\SpaceShooter\SpaceShooter\bin\Debug\Assets\loadingBar_bar.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\24_Lezione_22_12_SpaceShooter_Player\SpaceShooter\SpaceShooter\bin\Debug\Assets\loadingBar_frame.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\24_Lezione_22_12_SpaceShooter_Player\SpaceShooter\SpaceShooter\bin\Debug\Assets\player_ship.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\24_Lezione_22_12_SpaceShooter_Player\SpaceShooter\SpaceShooter\bin\Debug\Assets\powerUp_battery.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\24_Lezione_22_12_SpaceShooter_Player\SpaceShooter\SpaceShooter\bin\Debug\Assets\powerUp_triple.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\24_Lezione_22_12_SpaceShooter_Player\SpaceShooter\SpaceShooter\bin\Debug\Assets\pressEnter.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\24_Lezione_22_12_SpaceShooter_Player\SpaceShooter\SpaceShooter\bin\Debug\Assets\redEnemy_ship.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\24_Lezione_22_12_SpaceShooter_Player\SpaceShooter\SpaceShooter\bin\Debug\Assets\spaceBg.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\24_Lezione_22_12_SpaceShooter_Player\SpaceShooter\SpaceShooter\bin\Debug\Assets\textSheet.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\24_Lezione_22_12_SpaceShooter_Player\SpaceShooter\SpaceShooter\bin\Debug\Assets\welcomeBg.jpg
+D:\AIV - 2021 - 2022\Lessons\PR 1\24_Lezione_22_12_SpaceShooter_Player\SpaceShooter\SpaceShooter\bin\Debug\SpaceShooter.exe.config
+D:\AIV - 2021 - 2022\Lessons\PR 1\24_Lezione_22_12_SpaceShooter_Player\SpaceShooter\SpaceShooter\bin\Debug\SpaceShooter.exe
+D:\AIV - 2021 - 2022\Lessons\PR 1\24_Lezione_22_12_SpaceShooter_Player\SpaceShooter\SpaceShooter\bin\Debug\SpaceShooter.pdb
+D:\AIV - 2021 - 2022\Lessons\PR 1\24_Lezione_22_12_SpaceShooter_Player\SpaceShooter\SpaceShooter\bin\Debug\aiv-fast2d.dll
+D:\AIV - 2021 - 2022\Lessons\PR 1\24_Lezione_22_12_SpaceShooter_Player\SpaceShooter\SpaceShooter\bin\Debug\OpenTK.dll
+D:\AIV - 2021 - 2022\Lessons\PR 1\24_Lezione_22_12_SpaceShooter_Player\SpaceShooter\SpaceShooter\bin\Debug\OpenTK.pdb
+D:\AIV - 2021 - 2022\Lessons\PR 1\24_Lezione_22_12_SpaceShooter_Player\SpaceShooter\SpaceShooter\bin\Debug\OpenTK.xml
+D:\AIV - 2021 - 2022\Lessons\PR 1\24_Lezione_22_12_SpaceShooter_Player\SpaceShooter\SpaceShooter\obj\Debug\SpaceShooter.csproj.AssemblyReference.cache
+D:\AIV - 2021 - 2022\Lessons\PR 1\24_Lezione_22_12_SpaceShooter_Player\SpaceShooter\SpaceShooter\obj\Debug\SpaceShooter.csproj.CoreCompileInputs.cache
+D:\AIV - 2021 - 2022\Lessons\PR 1\24_Lezione_22_12_SpaceShooter_Player\SpaceShooter\SpaceShooter\obj\Debug\SpaceShooter.exe
+D:\AIV - 2021 - 2022\Lessons\PR 1\24_Lezione_22_12_SpaceShooter_Player\SpaceShooter\SpaceShooter\obj\Debug\SpaceShooter.pdb
+D:\AIV - 2021 - 2022\Lessons\PR 1\25_Lezione_10_01_Collections\SpaceShooter\SpaceShooter\bin\Debug\Assets\aivBG.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\25_Lezione_10_01_Collections\SpaceShooter\SpaceShooter\bin\Debug\Assets\beams.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\25_Lezione_10_01_Collections\SpaceShooter\SpaceShooter\bin\Debug\Assets\big_ship.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\25_Lezione_10_01_Collections\SpaceShooter\SpaceShooter\bin\Debug\Assets\blueLaser.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\25_Lezione_10_01_Collections\SpaceShooter\SpaceShooter\bin\Debug\Assets\comics.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\25_Lezione_10_01_Collections\SpaceShooter\SpaceShooter\bin\Debug\Assets\enemy_ship.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\25_Lezione_10_01_Collections\SpaceShooter\SpaceShooter\bin\Debug\Assets\fireGlobe.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\25_Lezione_10_01_Collections\SpaceShooter\SpaceShooter\bin\Debug\Assets\gameOverBg.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\25_Lezione_10_01_Collections\SpaceShooter\SpaceShooter\bin\Debug\Assets\greenGlobe.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\25_Lezione_10_01_Collections\SpaceShooter\SpaceShooter\bin\Debug\Assets\greenLaser.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\25_Lezione_10_01_Collections\SpaceShooter\SpaceShooter\bin\Debug\Assets\loadingBar_bar.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\25_Lezione_10_01_Collections\SpaceShooter\SpaceShooter\bin\Debug\Assets\loadingBar_frame.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\25_Lezione_10_01_Collections\SpaceShooter\SpaceShooter\bin\Debug\Assets\player_ship.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\25_Lezione_10_01_Collections\SpaceShooter\SpaceShooter\bin\Debug\Assets\powerUp_battery.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\25_Lezione_10_01_Collections\SpaceShooter\SpaceShooter\bin\Debug\Assets\powerUp_triple.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\25_Lezione_10_01_Collections\SpaceShooter\SpaceShooter\bin\Debug\Assets\pressEnter.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\25_Lezione_10_01_Collections\SpaceShooter\SpaceShooter\bin\Debug\Assets\redEnemy_ship.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\25_Lezione_10_01_Collections\SpaceShooter\SpaceShooter\bin\Debug\Assets\spaceBg.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\25_Lezione_10_01_Collections\SpaceShooter\SpaceShooter\bin\Debug\Assets\textSheet.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\25_Lezione_10_01_Collections\SpaceShooter\SpaceShooter\bin\Debug\Assets\welcomeBg.jpg
+D:\AIV - 2021 - 2022\Lessons\PR 1\25_Lezione_10_01_Collections\SpaceShooter\SpaceShooter\bin\Debug\SpaceShooter.exe.config
+D:\AIV - 2021 - 2022\Lessons\PR 1\25_Lezione_10_01_Collections\SpaceShooter\SpaceShooter\bin\Debug\SpaceShooter.exe
+D:\AIV - 2021 - 2022\Lessons\PR 1\25_Lezione_10_01_Collections\SpaceShooter\SpaceShooter\bin\Debug\SpaceShooter.pdb
+D:\AIV - 2021 - 2022\Lessons\PR 1\25_Lezione_10_01_Collections\SpaceShooter\SpaceShooter\bin\Debug\aiv-fast2d.dll
+D:\AIV - 2021 - 2022\Lessons\PR 1\25_Lezione_10_01_Collections\SpaceShooter\SpaceShooter\bin\Debug\OpenTK.dll
+D:\AIV - 2021 - 2022\Lessons\PR 1\25_Lezione_10_01_Collections\SpaceShooter\SpaceShooter\bin\Debug\OpenTK.pdb
+D:\AIV - 2021 - 2022\Lessons\PR 1\25_Lezione_10_01_Collections\SpaceShooter\SpaceShooter\bin\Debug\OpenTK.xml
+D:\AIV - 2021 - 2022\Lessons\PR 1\25_Lezione_10_01_Collections\SpaceShooter\SpaceShooter\obj\Debug\SpaceShooter.csproj.AssemblyReference.cache
+D:\AIV - 2021 - 2022\Lessons\PR 1\25_Lezione_10_01_Collections\SpaceShooter\SpaceShooter\obj\Debug\SpaceShooter.csproj.CoreCompileInputs.cache
+D:\AIV - 2021 - 2022\Lessons\PR 1\25_Lezione_10_01_Collections\SpaceShooter\SpaceShooter\obj\Debug\SpaceShooter.exe
+D:\AIV - 2021 - 2022\Lessons\PR 1\25_Lezione_10_01_Collections\SpaceShooter\SpaceShooter\obj\Debug\SpaceShooter.pdb
+C:\Users\Chirone\Desktop\26_Lezione_12_01_SpaceShooter_Enemy_Mngrs\SpaceShooter\SpaceShooter\bin\Debug\Assets\aivBG.png
+C:\Users\Chirone\Desktop\26_Lezione_12_01_SpaceShooter_Enemy_Mngrs\SpaceShooter\SpaceShooter\bin\Debug\Assets\beams.png
+C:\Users\Chirone\Desktop\26_Lezione_12_01_SpaceShooter_Enemy_Mngrs\SpaceShooter\SpaceShooter\bin\Debug\Assets\big_ship.png
+C:\Users\Chirone\Desktop\26_Lezione_12_01_SpaceShooter_Enemy_Mngrs\SpaceShooter\SpaceShooter\bin\Debug\Assets\blueLaser.png
+C:\Users\Chirone\Desktop\26_Lezione_12_01_SpaceShooter_Enemy_Mngrs\SpaceShooter\SpaceShooter\bin\Debug\Assets\comics.png
+C:\Users\Chirone\Desktop\26_Lezione_12_01_SpaceShooter_Enemy_Mngrs\SpaceShooter\SpaceShooter\bin\Debug\Assets\enemy_ship.png
+C:\Users\Chirone\Desktop\26_Lezione_12_01_SpaceShooter_Enemy_Mngrs\SpaceShooter\SpaceShooter\bin\Debug\Assets\fireGlobe.png
+C:\Users\Chirone\Desktop\26_Lezione_12_01_SpaceShooter_Enemy_Mngrs\SpaceShooter\SpaceShooter\bin\Debug\Assets\gameOverBg.png
+C:\Users\Chirone\Desktop\26_Lezione_12_01_SpaceShooter_Enemy_Mngrs\SpaceShooter\SpaceShooter\bin\Debug\Assets\greenGlobe.png
+C:\Users\Chirone\Desktop\26_Lezione_12_01_SpaceShooter_Enemy_Mngrs\SpaceShooter\SpaceShooter\bin\Debug\Assets\greenLaser.png
+C:\Users\Chirone\Desktop\26_Lezione_12_01_SpaceShooter_Enemy_Mngrs\SpaceShooter\SpaceShooter\bin\Debug\Assets\loadingBar_bar.png
+C:\Users\Chirone\Desktop\26_Lezione_12_01_SpaceShooter_Enemy_Mngrs\SpaceShooter\SpaceShooter\bin\Debug\Assets\loadingBar_frame.png
+C:\Users\Chirone\Desktop\26_Lezione_12_01_SpaceShooter_Enemy_Mngrs\SpaceShooter\SpaceShooter\bin\Debug\Assets\player_ship.png
+C:\Users\Chirone\Desktop\26_Lezione_12_01_SpaceShooter_Enemy_Mngrs\SpaceShooter\SpaceShooter\bin\Debug\Assets\powerUp_battery.png
+C:\Users\Chirone\Desktop\26_Lezione_12_01_SpaceShooter_Enemy_Mngrs\SpaceShooter\SpaceShooter\bin\Debug\Assets\powerUp_triple.png
+C:\Users\Chirone\Desktop\26_Lezione_12_01_SpaceShooter_Enemy_Mngrs\SpaceShooter\SpaceShooter\bin\Debug\Assets\pressEnter.png
+C:\Users\Chirone\Desktop\26_Lezione_12_01_SpaceShooter_Enemy_Mngrs\SpaceShooter\SpaceShooter\bin\Debug\Assets\redEnemy_ship.png
+C:\Users\Chirone\Desktop\26_Lezione_12_01_SpaceShooter_Enemy_Mngrs\SpaceShooter\SpaceShooter\bin\Debug\Assets\spaceBg.png
+C:\Users\Chirone\Desktop\26_Lezione_12_01_SpaceShooter_Enemy_Mngrs\SpaceShooter\SpaceShooter\bin\Debug\Assets\textSheet.png
+C:\Users\Chirone\Desktop\26_Lezione_12_01_SpaceShooter_Enemy_Mngrs\SpaceShooter\SpaceShooter\bin\Debug\Assets\welcomeBg.jpg
+C:\Users\Chirone\Desktop\26_Lezione_12_01_SpaceShooter_Enemy_Mngrs\SpaceShooter\SpaceShooter\bin\Debug\SpaceShooter.exe.config
+C:\Users\Chirone\Desktop\26_Lezione_12_01_SpaceShooter_Enemy_Mngrs\SpaceShooter\SpaceShooter\bin\Debug\SpaceShooter.exe
+C:\Users\Chirone\Desktop\26_Lezione_12_01_SpaceShooter_Enemy_Mngrs\SpaceShooter\SpaceShooter\bin\Debug\SpaceShooter.pdb
+C:\Users\Chirone\Desktop\26_Lezione_12_01_SpaceShooter_Enemy_Mngrs\SpaceShooter\SpaceShooter\bin\Debug\aiv-fast2d.dll
+C:\Users\Chirone\Desktop\26_Lezione_12_01_SpaceShooter_Enemy_Mngrs\SpaceShooter\SpaceShooter\bin\Debug\OpenTK.dll
+C:\Users\Chirone\Desktop\26_Lezione_12_01_SpaceShooter_Enemy_Mngrs\SpaceShooter\SpaceShooter\bin\Debug\OpenTK.pdb
+C:\Users\Chirone\Desktop\26_Lezione_12_01_SpaceShooter_Enemy_Mngrs\SpaceShooter\SpaceShooter\bin\Debug\OpenTK.xml
+C:\Users\Chirone\Desktop\26_Lezione_12_01_SpaceShooter_Enemy_Mngrs\SpaceShooter\SpaceShooter\obj\Debug\SpaceShooter.csprojAssemblyReference.cache
+C:\Users\Chirone\Desktop\26_Lezione_12_01_SpaceShooter_Enemy_Mngrs\SpaceShooter\SpaceShooter\obj\Debug\SpaceShooter.csproj.CoreCompileInputs.cache
+C:\Users\Chirone\Desktop\26_Lezione_12_01_SpaceShooter_Enemy_Mngrs\SpaceShooter\SpaceShooter\obj\Debug\SpaceShooter.csproj.CopyComplete
+C:\Users\Chirone\Desktop\26_Lezione_12_01_SpaceShooter_Enemy_Mngrs\SpaceShooter\SpaceShooter\obj\Debug\SpaceShooter.exe
+C:\Users\Chirone\Desktop\26_Lezione_12_01_SpaceShooter_Enemy_Mngrs\SpaceShooter\SpaceShooter\obj\Debug\SpaceShooter.pdb
+D:\AIV - 2021 - 2022\Lessons\PR 1\28_Lezione_17_01_SpaceShooter_BulletAbstract\SpaceShooter\bin\Debug\Assets\aivBG.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\28_Lezione_17_01_SpaceShooter_BulletAbstract\SpaceShooter\bin\Debug\Assets\beams.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\28_Lezione_17_01_SpaceShooter_BulletAbstract\SpaceShooter\bin\Debug\Assets\big_ship.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\28_Lezione_17_01_SpaceShooter_BulletAbstract\SpaceShooter\bin\Debug\Assets\blueLaser.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\28_Lezione_17_01_SpaceShooter_BulletAbstract\SpaceShooter\bin\Debug\Assets\comics.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\28_Lezione_17_01_SpaceShooter_BulletAbstract\SpaceShooter\bin\Debug\Assets\enemy_ship.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\28_Lezione_17_01_SpaceShooter_BulletAbstract\SpaceShooter\bin\Debug\Assets\fireGlobe.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\28_Lezione_17_01_SpaceShooter_BulletAbstract\SpaceShooter\bin\Debug\Assets\gameOverBg.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\28_Lezione_17_01_SpaceShooter_BulletAbstract\SpaceShooter\bin\Debug\Assets\greenGlobe.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\28_Lezione_17_01_SpaceShooter_BulletAbstract\SpaceShooter\bin\Debug\Assets\greenLaser.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\28_Lezione_17_01_SpaceShooter_BulletAbstract\SpaceShooter\bin\Debug\Assets\loadingBar_bar.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\28_Lezione_17_01_SpaceShooter_BulletAbstract\SpaceShooter\bin\Debug\Assets\loadingBar_frame.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\28_Lezione_17_01_SpaceShooter_BulletAbstract\SpaceShooter\bin\Debug\Assets\player_ship.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\28_Lezione_17_01_SpaceShooter_BulletAbstract\SpaceShooter\bin\Debug\Assets\powerUp_battery.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\28_Lezione_17_01_SpaceShooter_BulletAbstract\SpaceShooter\bin\Debug\Assets\powerUp_triple.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\28_Lezione_17_01_SpaceShooter_BulletAbstract\SpaceShooter\bin\Debug\Assets\pressEnter.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\28_Lezione_17_01_SpaceShooter_BulletAbstract\SpaceShooter\bin\Debug\Assets\redEnemy_ship.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\28_Lezione_17_01_SpaceShooter_BulletAbstract\SpaceShooter\bin\Debug\Assets\spaceBg.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\28_Lezione_17_01_SpaceShooter_BulletAbstract\SpaceShooter\bin\Debug\Assets\textSheet.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\28_Lezione_17_01_SpaceShooter_BulletAbstract\SpaceShooter\bin\Debug\Assets\welcomeBg.jpg
+D:\AIV - 2021 - 2022\Lessons\PR 1\28_Lezione_17_01_SpaceShooter_BulletAbstract\SpaceShooter\bin\Debug\SpaceShooter.exe.config
+D:\AIV - 2021 - 2022\Lessons\PR 1\28_Lezione_17_01_SpaceShooter_BulletAbstract\SpaceShooter\bin\Debug\SpaceShooter.exe
+D:\AIV - 2021 - 2022\Lessons\PR 1\28_Lezione_17_01_SpaceShooter_BulletAbstract\SpaceShooter\bin\Debug\SpaceShooter.pdb
+D:\AIV - 2021 - 2022\Lessons\PR 1\28_Lezione_17_01_SpaceShooter_BulletAbstract\SpaceShooter\bin\Debug\aiv-fast2d.dll
+D:\AIV - 2021 - 2022\Lessons\PR 1\28_Lezione_17_01_SpaceShooter_BulletAbstract\SpaceShooter\bin\Debug\OpenTK.dll
+D:\AIV - 2021 - 2022\Lessons\PR 1\28_Lezione_17_01_SpaceShooter_BulletAbstract\SpaceShooter\bin\Debug\OpenTK.pdb
+D:\AIV - 2021 - 2022\Lessons\PR 1\28_Lezione_17_01_SpaceShooter_BulletAbstract\SpaceShooter\bin\Debug\OpenTK.xml
+D:\AIV - 2021 - 2022\Lessons\PR 1\28_Lezione_17_01_SpaceShooter_BulletAbstract\SpaceShooter\obj\Debug\SpaceShooter.csproj.AssemblyReference.cache
+D:\AIV - 2021 - 2022\Lessons\PR 1\28_Lezione_17_01_SpaceShooter_BulletAbstract\SpaceShooter\obj\Debug\SpaceShooter.csproj.CoreCompileInputs.cache
+D:\AIV - 2021 - 2022\Lessons\PR 1\28_Lezione_17_01_SpaceShooter_BulletAbstract\SpaceShooter\obj\Debug\SpaceShooter.csproj.CopyComplete
+D:\AIV - 2021 - 2022\Lessons\PR 1\28_Lezione_17_01_SpaceShooter_BulletAbstract\SpaceShooter\obj\Debug\SpaceShooter.exe
+D:\AIV - 2021 - 2022\Lessons\PR 1\28_Lezione_17_01_SpaceShooter_BulletAbstract\SpaceShooter\obj\Debug\SpaceShooter.pdb
+D:\AIV - 2021 - 2022\Lessons\PR 1\29_Lezione_19_01_SpaceShooter_GameObject\SpaceShooter\obj\Debug\SpaceShooter.csproj.AssemblyReference.cache
+D:\AIV - 2021 - 2022\Lessons\PR 1\29_Lezione_19_01_SpaceShooter_GameObject\SpaceShooter\obj\Debug\SpaceShooter.csproj.CoreCompileInputs.cache
+D:\AIV - 2021 - 2022\Lessons\PR 1\29_Lezione_19_01_SpaceShooter_GameObject\SpaceShooter\obj\Debug\SpaceShooter.exe
+D:\AIV - 2021 - 2022\Lessons\PR 1\29_Lezione_19_01_SpaceShooter_GameObject\SpaceShooter\obj\Debug\SpaceShooter.pdb
+D:\AIV - 2021 - 2022\Lessons\PR 1\29_Lezione_19_01_SpaceShooter_GameObject\SpaceShooter\bin\Debug\Assets\aivBG.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\29_Lezione_19_01_SpaceShooter_GameObject\SpaceShooter\bin\Debug\Assets\beams.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\29_Lezione_19_01_SpaceShooter_GameObject\SpaceShooter\bin\Debug\Assets\big_ship.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\29_Lezione_19_01_SpaceShooter_GameObject\SpaceShooter\bin\Debug\Assets\blueLaser.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\29_Lezione_19_01_SpaceShooter_GameObject\SpaceShooter\bin\Debug\Assets\comics.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\29_Lezione_19_01_SpaceShooter_GameObject\SpaceShooter\bin\Debug\Assets\enemy_ship.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\29_Lezione_19_01_SpaceShooter_GameObject\SpaceShooter\bin\Debug\Assets\fireGlobe.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\29_Lezione_19_01_SpaceShooter_GameObject\SpaceShooter\bin\Debug\Assets\gameOverBg.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\29_Lezione_19_01_SpaceShooter_GameObject\SpaceShooter\bin\Debug\Assets\greenGlobe.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\29_Lezione_19_01_SpaceShooter_GameObject\SpaceShooter\bin\Debug\Assets\greenLaser.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\29_Lezione_19_01_SpaceShooter_GameObject\SpaceShooter\bin\Debug\Assets\loadingBar_bar.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\29_Lezione_19_01_SpaceShooter_GameObject\SpaceShooter\bin\Debug\Assets\loadingBar_frame.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\29_Lezione_19_01_SpaceShooter_GameObject\SpaceShooter\bin\Debug\Assets\player_ship.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\29_Lezione_19_01_SpaceShooter_GameObject\SpaceShooter\bin\Debug\Assets\powerUp_battery.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\29_Lezione_19_01_SpaceShooter_GameObject\SpaceShooter\bin\Debug\Assets\powerUp_triple.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\29_Lezione_19_01_SpaceShooter_GameObject\SpaceShooter\bin\Debug\Assets\pressEnter.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\29_Lezione_19_01_SpaceShooter_GameObject\SpaceShooter\bin\Debug\Assets\redEnemy_ship.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\29_Lezione_19_01_SpaceShooter_GameObject\SpaceShooter\bin\Debug\Assets\spaceBg.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\29_Lezione_19_01_SpaceShooter_GameObject\SpaceShooter\bin\Debug\Assets\textSheet.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\29_Lezione_19_01_SpaceShooter_GameObject\SpaceShooter\bin\Debug\Assets\welcomeBg.jpg
+D:\AIV - 2021 - 2022\Lessons\PR 1\29_Lezione_19_01_SpaceShooter_GameObject\SpaceShooter\bin\Debug\SpaceShooter.exe.config
+D:\AIV - 2021 - 2022\Lessons\PR 1\29_Lezione_19_01_SpaceShooter_GameObject\SpaceShooter\bin\Debug\SpaceShooter.exe
+D:\AIV - 2021 - 2022\Lessons\PR 1\29_Lezione_19_01_SpaceShooter_GameObject\SpaceShooter\bin\Debug\SpaceShooter.pdb
+D:\AIV - 2021 - 2022\Lessons\PR 1\29_Lezione_19_01_SpaceShooter_GameObject\SpaceShooter\bin\Debug\aiv-fast2d.dll
+D:\AIV - 2021 - 2022\Lessons\PR 1\29_Lezione_19_01_SpaceShooter_GameObject\SpaceShooter\bin\Debug\OpenTK.dll
+D:\AIV - 2021 - 2022\Lessons\PR 1\29_Lezione_19_01_SpaceShooter_GameObject\SpaceShooter\bin\Debug\OpenTK.pdb
+D:\AIV - 2021 - 2022\Lessons\PR 1\29_Lezione_19_01_SpaceShooter_GameObject\SpaceShooter\bin\Debug\OpenTK.xml
+D:\AIV - 2021 - 2022\Lessons\PR 1\31_Lezione_24_01_SpaceShooter_Interfaces\SpaceShooter\bin\Debug\Assets\aivBG.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\31_Lezione_24_01_SpaceShooter_Interfaces\SpaceShooter\bin\Debug\Assets\beams.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\31_Lezione_24_01_SpaceShooter_Interfaces\SpaceShooter\bin\Debug\Assets\big_ship.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\31_Lezione_24_01_SpaceShooter_Interfaces\SpaceShooter\bin\Debug\Assets\blueLaser.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\31_Lezione_24_01_SpaceShooter_Interfaces\SpaceShooter\bin\Debug\Assets\comics.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\31_Lezione_24_01_SpaceShooter_Interfaces\SpaceShooter\bin\Debug\Assets\enemy_ship.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\31_Lezione_24_01_SpaceShooter_Interfaces\SpaceShooter\bin\Debug\Assets\fireGlobe.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\31_Lezione_24_01_SpaceShooter_Interfaces\SpaceShooter\bin\Debug\Assets\gameOverBg.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\31_Lezione_24_01_SpaceShooter_Interfaces\SpaceShooter\bin\Debug\Assets\greenGlobe.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\31_Lezione_24_01_SpaceShooter_Interfaces\SpaceShooter\bin\Debug\Assets\greenLaser.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\31_Lezione_24_01_SpaceShooter_Interfaces\SpaceShooter\bin\Debug\Assets\loadingBar_bar.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\31_Lezione_24_01_SpaceShooter_Interfaces\SpaceShooter\bin\Debug\Assets\loadingBar_frame.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\31_Lezione_24_01_SpaceShooter_Interfaces\SpaceShooter\bin\Debug\Assets\player_ship.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\31_Lezione_24_01_SpaceShooter_Interfaces\SpaceShooter\bin\Debug\Assets\powerUp_battery.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\31_Lezione_24_01_SpaceShooter_Interfaces\SpaceShooter\bin\Debug\Assets\powerUp_triple.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\31_Lezione_24_01_SpaceShooter_Interfaces\SpaceShooter\bin\Debug\Assets\pressEnter.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\31_Lezione_24_01_SpaceShooter_Interfaces\SpaceShooter\bin\Debug\Assets\redEnemy_ship.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\31_Lezione_24_01_SpaceShooter_Interfaces\SpaceShooter\bin\Debug\Assets\spaceBg.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\31_Lezione_24_01_SpaceShooter_Interfaces\SpaceShooter\bin\Debug\Assets\textSheet.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\31_Lezione_24_01_SpaceShooter_Interfaces\SpaceShooter\bin\Debug\Assets\welcomeBg.jpg
+D:\AIV - 2021 - 2022\Lessons\PR 1\31_Lezione_24_01_SpaceShooter_Interfaces\SpaceShooter\bin\Debug\SpaceShooter.exe.config
+D:\AIV - 2021 - 2022\Lessons\PR 1\31_Lezione_24_01_SpaceShooter_Interfaces\SpaceShooter\bin\Debug\SpaceShooter.exe
+D:\AIV - 2021 - 2022\Lessons\PR 1\31_Lezione_24_01_SpaceShooter_Interfaces\SpaceShooter\bin\Debug\SpaceShooter.pdb
+D:\AIV - 2021 - 2022\Lessons\PR 1\31_Lezione_24_01_SpaceShooter_Interfaces\SpaceShooter\bin\Debug\aiv-fast2d.dll
+D:\AIV - 2021 - 2022\Lessons\PR 1\31_Lezione_24_01_SpaceShooter_Interfaces\SpaceShooter\bin\Debug\OpenTK.dll
+D:\AIV - 2021 - 2022\Lessons\PR 1\31_Lezione_24_01_SpaceShooter_Interfaces\SpaceShooter\bin\Debug\OpenTK.pdb
+D:\AIV - 2021 - 2022\Lessons\PR 1\31_Lezione_24_01_SpaceShooter_Interfaces\SpaceShooter\bin\Debug\OpenTK.xml
+D:\AIV - 2021 - 2022\Lessons\PR 1\31_Lezione_24_01_SpaceShooter_Interfaces\SpaceShooter\obj\Debug\SpaceShooter.csproj.AssemblyReference.cache
+D:\AIV - 2021 - 2022\Lessons\PR 1\31_Lezione_24_01_SpaceShooter_Interfaces\SpaceShooter\obj\Debug\SpaceShooter.csproj.CoreCompileInputs.cache
+D:\AIV - 2021 - 2022\Lessons\PR 1\31_Lezione_24_01_SpaceShooter_Interfaces\SpaceShooter\obj\Debug\SpaceShooter.exe
+D:\AIV - 2021 - 2022\Lessons\PR 1\31_Lezione_24_01_SpaceShooter_Interfaces\SpaceShooter\obj\Debug\SpaceShooter.pdb
+D:\AIV - 2021 - 2022\Lessons\PR 1\32_Lezione_26_01_SpaceShooter_Collisions\SpaceShooter\bin\Debug\Assets\aivBG.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\32_Lezione_26_01_SpaceShooter_Collisions\SpaceShooter\bin\Debug\Assets\beams.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\32_Lezione_26_01_SpaceShooter_Collisions\SpaceShooter\bin\Debug\Assets\big_ship.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\32_Lezione_26_01_SpaceShooter_Collisions\SpaceShooter\bin\Debug\Assets\blueLaser.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\32_Lezione_26_01_SpaceShooter_Collisions\SpaceShooter\bin\Debug\Assets\comics.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\32_Lezione_26_01_SpaceShooter_Collisions\SpaceShooter\bin\Debug\Assets\enemy_ship.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\32_Lezione_26_01_SpaceShooter_Collisions\SpaceShooter\bin\Debug\Assets\fireGlobe.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\32_Lezione_26_01_SpaceShooter_Collisions\SpaceShooter\bin\Debug\Assets\gameOverBg.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\32_Lezione_26_01_SpaceShooter_Collisions\SpaceShooter\bin\Debug\Assets\greenGlobe.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\32_Lezione_26_01_SpaceShooter_Collisions\SpaceShooter\bin\Debug\Assets\greenLaser.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\32_Lezione_26_01_SpaceShooter_Collisions\SpaceShooter\bin\Debug\Assets\loadingBar_bar.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\32_Lezione_26_01_SpaceShooter_Collisions\SpaceShooter\bin\Debug\Assets\loadingBar_frame.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\32_Lezione_26_01_SpaceShooter_Collisions\SpaceShooter\bin\Debug\Assets\player_ship.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\32_Lezione_26_01_SpaceShooter_Collisions\SpaceShooter\bin\Debug\Assets\powerUp_battery.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\32_Lezione_26_01_SpaceShooter_Collisions\SpaceShooter\bin\Debug\Assets\powerUp_triple.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\32_Lezione_26_01_SpaceShooter_Collisions\SpaceShooter\bin\Debug\Assets\pressEnter.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\32_Lezione_26_01_SpaceShooter_Collisions\SpaceShooter\bin\Debug\Assets\redEnemy_ship.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\32_Lezione_26_01_SpaceShooter_Collisions\SpaceShooter\bin\Debug\Assets\spaceBg.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\32_Lezione_26_01_SpaceShooter_Collisions\SpaceShooter\bin\Debug\Assets\textSheet.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\32_Lezione_26_01_SpaceShooter_Collisions\SpaceShooter\bin\Debug\Assets\welcomeBg.jpg
+D:\AIV - 2021 - 2022\Lessons\PR 1\32_Lezione_26_01_SpaceShooter_Collisions\SpaceShooter\bin\Debug\SpaceShooter.exe.config
+D:\AIV - 2021 - 2022\Lessons\PR 1\32_Lezione_26_01_SpaceShooter_Collisions\SpaceShooter\bin\Debug\SpaceShooter.exe
+D:\AIV - 2021 - 2022\Lessons\PR 1\32_Lezione_26_01_SpaceShooter_Collisions\SpaceShooter\bin\Debug\SpaceShooter.pdb
+D:\AIV - 2021 - 2022\Lessons\PR 1\32_Lezione_26_01_SpaceShooter_Collisions\SpaceShooter\bin\Debug\aiv-fast2d.dll
+D:\AIV - 2021 - 2022\Lessons\PR 1\32_Lezione_26_01_SpaceShooter_Collisions\SpaceShooter\bin\Debug\OpenTK.dll
+D:\AIV - 2021 - 2022\Lessons\PR 1\32_Lezione_26_01_SpaceShooter_Collisions\SpaceShooter\bin\Debug\OpenTK.pdb
+D:\AIV - 2021 - 2022\Lessons\PR 1\32_Lezione_26_01_SpaceShooter_Collisions\SpaceShooter\bin\Debug\OpenTK.xml
+D:\AIV - 2021 - 2022\Lessons\PR 1\32_Lezione_26_01_SpaceShooter_Collisions\SpaceShooter\obj\Debug\SpaceShooter.csproj.AssemblyReference.cache
+D:\AIV - 2021 - 2022\Lessons\PR 1\32_Lezione_26_01_SpaceShooter_Collisions\SpaceShooter\obj\Debug\SpaceShooter.csproj.CoreCompileInputs.cache
+D:\AIV - 2021 - 2022\Lessons\PR 1\32_Lezione_26_01_SpaceShooter_Collisions\SpaceShooter\obj\Debug\SpaceShooter.exe
+D:\AIV - 2021 - 2022\Lessons\PR 1\32_Lezione_26_01_SpaceShooter_Collisions\SpaceShooter\obj\Debug\SpaceShooter.pdb
+C:\Users\chiro\Desktop\32_Lezione_26_01_SpaceShooter_Collisions\SpaceShooter\bin\Debug\Assets\aivBG.png
+C:\Users\chiro\Desktop\32_Lezione_26_01_SpaceShooter_Collisions\SpaceShooter\bin\Debug\Assets\beams.png
+C:\Users\chiro\Desktop\32_Lezione_26_01_SpaceShooter_Collisions\SpaceShooter\bin\Debug\Assets\big_ship.png
+C:\Users\chiro\Desktop\32_Lezione_26_01_SpaceShooter_Collisions\SpaceShooter\bin\Debug\Assets\blueLaser.png
+C:\Users\chiro\Desktop\32_Lezione_26_01_SpaceShooter_Collisions\SpaceShooter\bin\Debug\Assets\comics.png
+C:\Users\chiro\Desktop\32_Lezione_26_01_SpaceShooter_Collisions\SpaceShooter\bin\Debug\Assets\enemy_ship.png
+C:\Users\chiro\Desktop\32_Lezione_26_01_SpaceShooter_Collisions\SpaceShooter\bin\Debug\Assets\fireGlobe.png
+C:\Users\chiro\Desktop\32_Lezione_26_01_SpaceShooter_Collisions\SpaceShooter\bin\Debug\Assets\gameOverBg.png
+C:\Users\chiro\Desktop\32_Lezione_26_01_SpaceShooter_Collisions\SpaceShooter\bin\Debug\Assets\greenGlobe.png
+C:\Users\chiro\Desktop\32_Lezione_26_01_SpaceShooter_Collisions\SpaceShooter\bin\Debug\Assets\greenLaser.png
+C:\Users\chiro\Desktop\32_Lezione_26_01_SpaceShooter_Collisions\SpaceShooter\bin\Debug\Assets\loadingBar_bar.png
+C:\Users\chiro\Desktop\32_Lezione_26_01_SpaceShooter_Collisions\SpaceShooter\bin\Debug\Assets\loadingBar_frame.png
+C:\Users\chiro\Desktop\32_Lezione_26_01_SpaceShooter_Collisions\SpaceShooter\bin\Debug\Assets\player_ship.png
+C:\Users\chiro\Desktop\32_Lezione_26_01_SpaceShooter_Collisions\SpaceShooter\bin\Debug\Assets\powerUp_battery.png
+C:\Users\chiro\Desktop\32_Lezione_26_01_SpaceShooter_Collisions\SpaceShooter\bin\Debug\Assets\powerUp_triple.png
+C:\Users\chiro\Desktop\32_Lezione_26_01_SpaceShooter_Collisions\SpaceShooter\bin\Debug\Assets\pressEnter.png
+C:\Users\chiro\Desktop\32_Lezione_26_01_SpaceShooter_Collisions\SpaceShooter\bin\Debug\Assets\redEnemy_ship.png
+C:\Users\chiro\Desktop\32_Lezione_26_01_SpaceShooter_Collisions\SpaceShooter\bin\Debug\Assets\spaceBg.png
+C:\Users\chiro\Desktop\32_Lezione_26_01_SpaceShooter_Collisions\SpaceShooter\bin\Debug\Assets\textSheet.png
+C:\Users\chiro\Desktop\32_Lezione_26_01_SpaceShooter_Collisions\SpaceShooter\bin\Debug\Assets\welcomeBg.jpg
+C:\Users\chiro\Desktop\32_Lezione_26_01_SpaceShooter_Collisions\SpaceShooter\bin\Debug\SpaceShooter.exe.config
+C:\Users\chiro\Desktop\32_Lezione_26_01_SpaceShooter_Collisions\SpaceShooter\bin\Debug\SpaceShooter.exe
+C:\Users\chiro\Desktop\32_Lezione_26_01_SpaceShooter_Collisions\SpaceShooter\bin\Debug\SpaceShooter.pdb
+C:\Users\chiro\Desktop\32_Lezione_26_01_SpaceShooter_Collisions\SpaceShooter\bin\Debug\aiv-fast2d.dll
+C:\Users\chiro\Desktop\32_Lezione_26_01_SpaceShooter_Collisions\SpaceShooter\bin\Debug\OpenTK.dll
+C:\Users\chiro\Desktop\32_Lezione_26_01_SpaceShooter_Collisions\SpaceShooter\bin\Debug\OpenTK.pdb
+C:\Users\chiro\Desktop\32_Lezione_26_01_SpaceShooter_Collisions\SpaceShooter\bin\Debug\OpenTK.xml
+C:\Users\chiro\Desktop\32_Lezione_26_01_SpaceShooter_Collisions\SpaceShooter\obj\Debug\SpaceShooter.csproj.AssemblyReference.cache
+C:\Users\chiro\Desktop\32_Lezione_26_01_SpaceShooter_Collisions\SpaceShooter\obj\Debug\SpaceShooter.csproj.CoreCompileInputs.cache
+C:\Users\chiro\Desktop\32_Lezione_26_01_SpaceShooter_Collisions\SpaceShooter\obj\Debug\SpaceShooter.csproj.CopyComplete
+C:\Users\chiro\Desktop\32_Lezione_26_01_SpaceShooter_Collisions\SpaceShooter\obj\Debug\SpaceShooter.exe
+C:\Users\chiro\Desktop\32_Lezione_26_01_SpaceShooter_Collisions\SpaceShooter\obj\Debug\SpaceShooter.pdb
+C:\Users\chiro\Desktop\33_Lezione_28_01_SpaceShooter_Collisions_2\SpaceShooter\obj\Debug\SpaceShooter.csproj.AssemblyReference.cache
+C:\Users\chiro\Desktop\33_Lezione_28_01_SpaceShooter_Collisions_2\SpaceShooter\obj\Debug\SpaceShooter.csproj.CoreCompileInputs.cache
+C:\Users\chiro\Desktop\33_Lezione_28_01_SpaceShooter_Collisions_2\SpaceShooter\obj\Debug\SpaceShooter.exe
+C:\Users\chiro\Desktop\33_Lezione_28_01_SpaceShooter_Collisions_2\SpaceShooter\obj\Debug\SpaceShooter.pdb
+C:\Users\chiro\Desktop\33_Lezione_28_01_SpaceShooter_Collisions_2\SpaceShooter\bin\Debug\Assets\aivBG.png
+C:\Users\chiro\Desktop\33_Lezione_28_01_SpaceShooter_Collisions_2\SpaceShooter\bin\Debug\Assets\beams.png
+C:\Users\chiro\Desktop\33_Lezione_28_01_SpaceShooter_Collisions_2\SpaceShooter\bin\Debug\Assets\big_ship.png
+C:\Users\chiro\Desktop\33_Lezione_28_01_SpaceShooter_Collisions_2\SpaceShooter\bin\Debug\Assets\blueLaser.png
+C:\Users\chiro\Desktop\33_Lezione_28_01_SpaceShooter_Collisions_2\SpaceShooter\bin\Debug\Assets\comics.png
+C:\Users\chiro\Desktop\33_Lezione_28_01_SpaceShooter_Collisions_2\SpaceShooter\bin\Debug\Assets\enemy_ship.png
+C:\Users\chiro\Desktop\33_Lezione_28_01_SpaceShooter_Collisions_2\SpaceShooter\bin\Debug\Assets\fireGlobe.png
+C:\Users\chiro\Desktop\33_Lezione_28_01_SpaceShooter_Collisions_2\SpaceShooter\bin\Debug\Assets\gameOverBg.png
+C:\Users\chiro\Desktop\33_Lezione_28_01_SpaceShooter_Collisions_2\SpaceShooter\bin\Debug\Assets\greenGlobe.png
+C:\Users\chiro\Desktop\33_Lezione_28_01_SpaceShooter_Collisions_2\SpaceShooter\bin\Debug\Assets\greenLaser.png
+C:\Users\chiro\Desktop\33_Lezione_28_01_SpaceShooter_Collisions_2\SpaceShooter\bin\Debug\Assets\loadingBar_bar.png
+C:\Users\chiro\Desktop\33_Lezione_28_01_SpaceShooter_Collisions_2\SpaceShooter\bin\Debug\Assets\loadingBar_frame.png
+C:\Users\chiro\Desktop\33_Lezione_28_01_SpaceShooter_Collisions_2\SpaceShooter\bin\Debug\Assets\player_ship.png
+C:\Users\chiro\Desktop\33_Lezione_28_01_SpaceShooter_Collisions_2\SpaceShooter\bin\Debug\Assets\powerUp_battery.png
+C:\Users\chiro\Desktop\33_Lezione_28_01_SpaceShooter_Collisions_2\SpaceShooter\bin\Debug\Assets\powerUp_triple.png
+C:\Users\chiro\Desktop\33_Lezione_28_01_SpaceShooter_Collisions_2\SpaceShooter\bin\Debug\Assets\pressEnter.png
+C:\Users\chiro\Desktop\33_Lezione_28_01_SpaceShooter_Collisions_2\SpaceShooter\bin\Debug\Assets\redEnemy_ship.png
+C:\Users\chiro\Desktop\33_Lezione_28_01_SpaceShooter_Collisions_2\SpaceShooter\bin\Debug\Assets\spaceBg.png
+C:\Users\chiro\Desktop\33_Lezione_28_01_SpaceShooter_Collisions_2\SpaceShooter\bin\Debug\Assets\textSheet.png
+C:\Users\chiro\Desktop\33_Lezione_28_01_SpaceShooter_Collisions_2\SpaceShooter\bin\Debug\Assets\welcomeBg.jpg
+C:\Users\chiro\Desktop\33_Lezione_28_01_SpaceShooter_Collisions_2\SpaceShooter\bin\Debug\SpaceShooter.exe.config
+C:\Users\chiro\Desktop\33_Lezione_28_01_SpaceShooter_Collisions_2\SpaceShooter\bin\Debug\SpaceShooter.exe
+C:\Users\chiro\Desktop\33_Lezione_28_01_SpaceShooter_Collisions_2\SpaceShooter\bin\Debug\SpaceShooter.pdb
+C:\Users\chiro\Desktop\33_Lezione_28_01_SpaceShooter_Collisions_2\SpaceShooter\bin\Debug\aiv-fast2d.dll
+C:\Users\chiro\Desktop\33_Lezione_28_01_SpaceShooter_Collisions_2\SpaceShooter\bin\Debug\OpenTK.dll
+C:\Users\chiro\Desktop\33_Lezione_28_01_SpaceShooter_Collisions_2\SpaceShooter\bin\Debug\OpenTK.pdb
+C:\Users\chiro\Desktop\33_Lezione_28_01_SpaceShooter_Collisions_2\SpaceShooter\bin\Debug\OpenTK.xml
+C:\Users\chiro\Desktop\33_Lezione_28_01_SpaceShooter_Collisions_2\SpaceShooter\obj\Debug\SpaceShooter.csproj.CopyComplete
+D:\AIV - 2021 - 2022\Lessons\PR 1\35_Lezione_02_02_SpaceShooter_NrgBar\SpaceShooter\bin\Debug\Assets\aivBG.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\35_Lezione_02_02_SpaceShooter_NrgBar\SpaceShooter\bin\Debug\Assets\beams.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\35_Lezione_02_02_SpaceShooter_NrgBar\SpaceShooter\bin\Debug\Assets\big_ship.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\35_Lezione_02_02_SpaceShooter_NrgBar\SpaceShooter\bin\Debug\Assets\blueLaser.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\35_Lezione_02_02_SpaceShooter_NrgBar\SpaceShooter\bin\Debug\Assets\comics.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\35_Lezione_02_02_SpaceShooter_NrgBar\SpaceShooter\bin\Debug\Assets\enemy_ship.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\35_Lezione_02_02_SpaceShooter_NrgBar\SpaceShooter\bin\Debug\Assets\fireGlobe.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\35_Lezione_02_02_SpaceShooter_NrgBar\SpaceShooter\bin\Debug\Assets\gameOverBg.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\35_Lezione_02_02_SpaceShooter_NrgBar\SpaceShooter\bin\Debug\Assets\greenGlobe.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\35_Lezione_02_02_SpaceShooter_NrgBar\SpaceShooter\bin\Debug\Assets\greenLaser.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\35_Lezione_02_02_SpaceShooter_NrgBar\SpaceShooter\bin\Debug\Assets\loadingBar_bar.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\35_Lezione_02_02_SpaceShooter_NrgBar\SpaceShooter\bin\Debug\Assets\loadingBar_frame.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\35_Lezione_02_02_SpaceShooter_NrgBar\SpaceShooter\bin\Debug\Assets\player_ship.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\35_Lezione_02_02_SpaceShooter_NrgBar\SpaceShooter\bin\Debug\Assets\powerUp_battery.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\35_Lezione_02_02_SpaceShooter_NrgBar\SpaceShooter\bin\Debug\Assets\powerUp_triple.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\35_Lezione_02_02_SpaceShooter_NrgBar\SpaceShooter\bin\Debug\Assets\pressEnter.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\35_Lezione_02_02_SpaceShooter_NrgBar\SpaceShooter\bin\Debug\Assets\redEnemy_ship.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\35_Lezione_02_02_SpaceShooter_NrgBar\SpaceShooter\bin\Debug\Assets\spaceBg.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\35_Lezione_02_02_SpaceShooter_NrgBar\SpaceShooter\bin\Debug\Assets\textSheet.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\35_Lezione_02_02_SpaceShooter_NrgBar\SpaceShooter\bin\Debug\Assets\welcomeBg.jpg
+D:\AIV - 2021 - 2022\Lessons\PR 1\35_Lezione_02_02_SpaceShooter_NrgBar\SpaceShooter\bin\Debug\SpaceShooter.exe.config
+D:\AIV - 2021 - 2022\Lessons\PR 1\35_Lezione_02_02_SpaceShooter_NrgBar\SpaceShooter\bin\Debug\SpaceShooter.exe
+D:\AIV - 2021 - 2022\Lessons\PR 1\35_Lezione_02_02_SpaceShooter_NrgBar\SpaceShooter\bin\Debug\SpaceShooter.pdb
+D:\AIV - 2021 - 2022\Lessons\PR 1\35_Lezione_02_02_SpaceShooter_NrgBar\SpaceShooter\bin\Debug\aiv-fast2d.dll
+D:\AIV - 2021 - 2022\Lessons\PR 1\35_Lezione_02_02_SpaceShooter_NrgBar\SpaceShooter\bin\Debug\OpenTK.dll
+D:\AIV - 2021 - 2022\Lessons\PR 1\35_Lezione_02_02_SpaceShooter_NrgBar\SpaceShooter\bin\Debug\OpenTK.pdb
+D:\AIV - 2021 - 2022\Lessons\PR 1\35_Lezione_02_02_SpaceShooter_NrgBar\SpaceShooter\bin\Debug\OpenTK.xml
+D:\AIV - 2021 - 2022\Lessons\PR 1\35_Lezione_02_02_SpaceShooter_NrgBar\SpaceShooter\obj\Debug\SpaceShooter.csproj.AssemblyReference.cache
+D:\AIV - 2021 - 2022\Lessons\PR 1\35_Lezione_02_02_SpaceShooter_NrgBar\SpaceShooter\obj\Debug\SpaceShooter.csproj.CoreCompileInputs.cache
+D:\AIV - 2021 - 2022\Lessons\PR 1\35_Lezione_02_02_SpaceShooter_NrgBar\SpaceShooter\obj\Debug\SpaceShooter.exe
+D:\AIV - 2021 - 2022\Lessons\PR 1\35_Lezione_02_02_SpaceShooter_NrgBar\SpaceShooter\obj\Debug\SpaceShooter.pdb
+D:\AIV - 2021 - 2022\Lessons\PR 1\36_Lezione_02_02_SpaceShooter_CompoundCollider\SpaceShooter\bin\Debug\Assets\aivBG.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\36_Lezione_02_02_SpaceShooter_CompoundCollider\SpaceShooter\bin\Debug\Assets\beams.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\36_Lezione_02_02_SpaceShooter_CompoundCollider\SpaceShooter\bin\Debug\Assets\big_ship.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\36_Lezione_02_02_SpaceShooter_CompoundCollider\SpaceShooter\bin\Debug\Assets\blueLaser.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\36_Lezione_02_02_SpaceShooter_CompoundCollider\SpaceShooter\bin\Debug\Assets\comics.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\36_Lezione_02_02_SpaceShooter_CompoundCollider\SpaceShooter\bin\Debug\Assets\enemy_ship.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\36_Lezione_02_02_SpaceShooter_CompoundCollider\SpaceShooter\bin\Debug\Assets\fireGlobe.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\36_Lezione_02_02_SpaceShooter_CompoundCollider\SpaceShooter\bin\Debug\Assets\gameOverBg.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\36_Lezione_02_02_SpaceShooter_CompoundCollider\SpaceShooter\bin\Debug\Assets\greenGlobe.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\36_Lezione_02_02_SpaceShooter_CompoundCollider\SpaceShooter\bin\Debug\Assets\greenLaser.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\36_Lezione_02_02_SpaceShooter_CompoundCollider\SpaceShooter\bin\Debug\Assets\loadingBar_bar.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\36_Lezione_02_02_SpaceShooter_CompoundCollider\SpaceShooter\bin\Debug\Assets\loadingBar_frame.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\36_Lezione_02_02_SpaceShooter_CompoundCollider\SpaceShooter\bin\Debug\Assets\player_ship.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\36_Lezione_02_02_SpaceShooter_CompoundCollider\SpaceShooter\bin\Debug\Assets\powerUp_battery.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\36_Lezione_02_02_SpaceShooter_CompoundCollider\SpaceShooter\bin\Debug\Assets\powerUp_triple.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\36_Lezione_02_02_SpaceShooter_CompoundCollider\SpaceShooter\bin\Debug\Assets\pressEnter.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\36_Lezione_02_02_SpaceShooter_CompoundCollider\SpaceShooter\bin\Debug\Assets\redEnemy_ship.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\36_Lezione_02_02_SpaceShooter_CompoundCollider\SpaceShooter\bin\Debug\Assets\spaceBg.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\36_Lezione_02_02_SpaceShooter_CompoundCollider\SpaceShooter\bin\Debug\Assets\textSheet.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\36_Lezione_02_02_SpaceShooter_CompoundCollider\SpaceShooter\bin\Debug\Assets\welcomeBg.jpg
+D:\AIV - 2021 - 2022\Lessons\PR 1\36_Lezione_02_02_SpaceShooter_CompoundCollider\SpaceShooter\bin\Debug\SpaceShooter.exe.config
+D:\AIV - 2021 - 2022\Lessons\PR 1\36_Lezione_02_02_SpaceShooter_CompoundCollider\SpaceShooter\bin\Debug\SpaceShooter.exe
+D:\AIV - 2021 - 2022\Lessons\PR 1\36_Lezione_02_02_SpaceShooter_CompoundCollider\SpaceShooter\bin\Debug\SpaceShooter.pdb
+D:\AIV - 2021 - 2022\Lessons\PR 1\36_Lezione_02_02_SpaceShooter_CompoundCollider\SpaceShooter\bin\Debug\aiv-fast2d.dll
+D:\AIV - 2021 - 2022\Lessons\PR 1\36_Lezione_02_02_SpaceShooter_CompoundCollider\SpaceShooter\bin\Debug\OpenTK.dll
+D:\AIV - 2021 - 2022\Lessons\PR 1\36_Lezione_02_02_SpaceShooter_CompoundCollider\SpaceShooter\bin\Debug\OpenTK.pdb
+D:\AIV - 2021 - 2022\Lessons\PR 1\36_Lezione_02_02_SpaceShooter_CompoundCollider\SpaceShooter\bin\Debug\OpenTK.xml
+D:\AIV - 2021 - 2022\Lessons\PR 1\36_Lezione_02_02_SpaceShooter_CompoundCollider\SpaceShooter\obj\Debug\SpaceShooter.csproj.AssemblyReference.cache
+D:\AIV - 2021 - 2022\Lessons\PR 1\36_Lezione_02_02_SpaceShooter_CompoundCollider\SpaceShooter\obj\Debug\SpaceShooter.csproj.CoreCompileInputs.cache
+D:\AIV - 2021 - 2022\Lessons\PR 1\36_Lezione_02_02_SpaceShooter_CompoundCollider\SpaceShooter\obj\Debug\SpaceShooter.exe
+D:\AIV - 2021 - 2022\Lessons\PR 1\36_Lezione_02_02_SpaceShooter_CompoundCollider\SpaceShooter\obj\Debug\SpaceShooter.pdb
+D:\AIV - 2021 - 2022\Lessons\PR 1\38_Lezione_09_02_SpaceShooter_Scenes\SpaceShooter\bin\Debug\Assets\aivBG.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\38_Lezione_09_02_SpaceShooter_Scenes\SpaceShooter\bin\Debug\Assets\beams.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\38_Lezione_09_02_SpaceShooter_Scenes\SpaceShooter\bin\Debug\Assets\big_ship.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\38_Lezione_09_02_SpaceShooter_Scenes\SpaceShooter\bin\Debug\Assets\blueLaser.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\38_Lezione_09_02_SpaceShooter_Scenes\SpaceShooter\bin\Debug\Assets\comics.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\38_Lezione_09_02_SpaceShooter_Scenes\SpaceShooter\bin\Debug\Assets\enemy_ship.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\38_Lezione_09_02_SpaceShooter_Scenes\SpaceShooter\bin\Debug\Assets\fireGlobe.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\38_Lezione_09_02_SpaceShooter_Scenes\SpaceShooter\bin\Debug\Assets\gameOverBg.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\38_Lezione_09_02_SpaceShooter_Scenes\SpaceShooter\bin\Debug\Assets\greenGlobe.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\38_Lezione_09_02_SpaceShooter_Scenes\SpaceShooter\bin\Debug\Assets\greenLaser.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\38_Lezione_09_02_SpaceShooter_Scenes\SpaceShooter\bin\Debug\Assets\loadingBar_bar.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\38_Lezione_09_02_SpaceShooter_Scenes\SpaceShooter\bin\Debug\Assets\loadingBar_frame.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\38_Lezione_09_02_SpaceShooter_Scenes\SpaceShooter\bin\Debug\Assets\player_ship.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\38_Lezione_09_02_SpaceShooter_Scenes\SpaceShooter\bin\Debug\Assets\powerUp_battery.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\38_Lezione_09_02_SpaceShooter_Scenes\SpaceShooter\bin\Debug\Assets\powerUp_triple.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\38_Lezione_09_02_SpaceShooter_Scenes\SpaceShooter\bin\Debug\Assets\pressEnter.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\38_Lezione_09_02_SpaceShooter_Scenes\SpaceShooter\bin\Debug\Assets\redEnemy_ship.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\38_Lezione_09_02_SpaceShooter_Scenes\SpaceShooter\bin\Debug\Assets\spaceBg.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\38_Lezione_09_02_SpaceShooter_Scenes\SpaceShooter\bin\Debug\Assets\textSheet.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\38_Lezione_09_02_SpaceShooter_Scenes\SpaceShooter\bin\Debug\Assets\welcomeBg.jpg
+D:\AIV - 2021 - 2022\Lessons\PR 1\38_Lezione_09_02_SpaceShooter_Scenes\SpaceShooter\bin\Debug\SpaceShooter.exe.config
+D:\AIV - 2021 - 2022\Lessons\PR 1\38_Lezione_09_02_SpaceShooter_Scenes\SpaceShooter\bin\Debug\SpaceShooter.exe
+D:\AIV - 2021 - 2022\Lessons\PR 1\38_Lezione_09_02_SpaceShooter_Scenes\SpaceShooter\bin\Debug\SpaceShooter.pdb
+D:\AIV - 2021 - 2022\Lessons\PR 1\38_Lezione_09_02_SpaceShooter_Scenes\SpaceShooter\bin\Debug\aiv-fast2d.dll
+D:\AIV - 2021 - 2022\Lessons\PR 1\38_Lezione_09_02_SpaceShooter_Scenes\SpaceShooter\bin\Debug\OpenTK.dll
+D:\AIV - 2021 - 2022\Lessons\PR 1\38_Lezione_09_02_SpaceShooter_Scenes\SpaceShooter\bin\Debug\OpenTK.pdb
+D:\AIV - 2021 - 2022\Lessons\PR 1\38_Lezione_09_02_SpaceShooter_Scenes\SpaceShooter\bin\Debug\OpenTK.xml
+D:\AIV - 2021 - 2022\Lessons\PR 1\38_Lezione_09_02_SpaceShooter_Scenes\SpaceShooter\obj\Debug\SpaceShooter.csproj.AssemblyReference.cache
+D:\AIV - 2021 - 2022\Lessons\PR 1\38_Lezione_09_02_SpaceShooter_Scenes\SpaceShooter\obj\Debug\SpaceShooter.csproj.CoreCompileInputs.cache
+D:\AIV - 2021 - 2022\Lessons\PR 1\38_Lezione_09_02_SpaceShooter_Scenes\SpaceShooter\obj\Debug\SpaceShooter.exe
+D:\AIV - 2021 - 2022\Lessons\PR 1\38_Lezione_09_02_SpaceShooter_Scenes\SpaceShooter\obj\Debug\SpaceShooter.pdb
+C:\Users\chiro\Desktop\Lezioni\39_Lezione_11_02_SpaceShooter_Text\SpaceShooter\bin\Debug\Assets\aivBG.png
+C:\Users\chiro\Desktop\Lezioni\39_Lezione_11_02_SpaceShooter_Text\SpaceShooter\bin\Debug\Assets\beams.png
+C:\Users\chiro\Desktop\Lezioni\39_Lezione_11_02_SpaceShooter_Text\SpaceShooter\bin\Debug\Assets\big_ship.png
+C:\Users\chiro\Desktop\Lezioni\39_Lezione_11_02_SpaceShooter_Text\SpaceShooter\bin\Debug\Assets\blueLaser.png
+C:\Users\chiro\Desktop\Lezioni\39_Lezione_11_02_SpaceShooter_Text\SpaceShooter\bin\Debug\Assets\comics.png
+C:\Users\chiro\Desktop\Lezioni\39_Lezione_11_02_SpaceShooter_Text\SpaceShooter\bin\Debug\Assets\enemy_ship.png
+C:\Users\chiro\Desktop\Lezioni\39_Lezione_11_02_SpaceShooter_Text\SpaceShooter\bin\Debug\Assets\fireGlobe.png
+C:\Users\chiro\Desktop\Lezioni\39_Lezione_11_02_SpaceShooter_Text\SpaceShooter\bin\Debug\Assets\gameOverBg.png
+C:\Users\chiro\Desktop\Lezioni\39_Lezione_11_02_SpaceShooter_Text\SpaceShooter\bin\Debug\Assets\greenGlobe.png
+C:\Users\chiro\Desktop\Lezioni\39_Lezione_11_02_SpaceShooter_Text\SpaceShooter\bin\Debug\Assets\greenLaser.png
+C:\Users\chiro\Desktop\Lezioni\39_Lezione_11_02_SpaceShooter_Text\SpaceShooter\bin\Debug\Assets\loadingBar_bar.png
+C:\Users\chiro\Desktop\Lezioni\39_Lezione_11_02_SpaceShooter_Text\SpaceShooter\bin\Debug\Assets\loadingBar_frame.png
+C:\Users\chiro\Desktop\Lezioni\39_Lezione_11_02_SpaceShooter_Text\SpaceShooter\bin\Debug\Assets\player_ship.png
+C:\Users\chiro\Desktop\Lezioni\39_Lezione_11_02_SpaceShooter_Text\SpaceShooter\bin\Debug\Assets\powerUp_battery.png
+C:\Users\chiro\Desktop\Lezioni\39_Lezione_11_02_SpaceShooter_Text\SpaceShooter\bin\Debug\Assets\powerUp_triple.png
+C:\Users\chiro\Desktop\Lezioni\39_Lezione_11_02_SpaceShooter_Text\SpaceShooter\bin\Debug\Assets\pressEnter.png
+C:\Users\chiro\Desktop\Lezioni\39_Lezione_11_02_SpaceShooter_Text\SpaceShooter\bin\Debug\Assets\redEnemy_ship.png
+C:\Users\chiro\Desktop\Lezioni\39_Lezione_11_02_SpaceShooter_Text\SpaceShooter\bin\Debug\Assets\spaceBg.png
+C:\Users\chiro\Desktop\Lezioni\39_Lezione_11_02_SpaceShooter_Text\SpaceShooter\bin\Debug\Assets\textSheet.png
+C:\Users\chiro\Desktop\Lezioni\39_Lezione_11_02_SpaceShooter_Text\SpaceShooter\bin\Debug\Assets\welcomeBg.jpg
+C:\Users\chiro\Desktop\Lezioni\39_Lezione_11_02_SpaceShooter_Text\SpaceShooter\bin\Debug\SpaceShooter.exe.config
+C:\Users\chiro\Desktop\Lezioni\39_Lezione_11_02_SpaceShooter_Text\SpaceShooter\bin\Debug\SpaceShooter.exe
+C:\Users\chiro\Desktop\Lezioni\39_Lezione_11_02_SpaceShooter_Text\SpaceShooter\bin\Debug\SpaceShooter.pdb
+C:\Users\chiro\Desktop\Lezioni\39_Lezione_11_02_SpaceShooter_Text\SpaceShooter\bin\Debug\aiv-fast2d.dll
+C:\Users\chiro\Desktop\Lezioni\39_Lezione_11_02_SpaceShooter_Text\SpaceShooter\bin\Debug\OpenTK.dll
+C:\Users\chiro\Desktop\Lezioni\39_Lezione_11_02_SpaceShooter_Text\SpaceShooter\bin\Debug\OpenTK.pdb
+C:\Users\chiro\Desktop\Lezioni\39_Lezione_11_02_SpaceShooter_Text\SpaceShooter\bin\Debug\OpenTK.xml
+C:\Users\chiro\Desktop\Lezioni\39_Lezione_11_02_SpaceShooter_Text\SpaceShooter\obj\Debug\SpaceShooter.csproj.AssemblyReference.cache
+C:\Users\chiro\Desktop\Lezioni\39_Lezione_11_02_SpaceShooter_Text\SpaceShooter\obj\Debug\SpaceShooter.csproj.CoreCompileInputs.cache
+C:\Users\chiro\Desktop\Lezioni\39_Lezione_11_02_SpaceShooter_Text\SpaceShooter\obj\Debug\SpaceShooter.csproj.CopyComplete
+C:\Users\chiro\Desktop\Lezioni\39_Lezione_11_02_SpaceShooter_Text\SpaceShooter\obj\Debug\SpaceShooter.exe
+C:\Users\chiro\Desktop\Lezioni\39_Lezione_11_02_SpaceShooter_Text\SpaceShooter\obj\Debug\SpaceShooter.pdb
+D:\AIV - 2021 - 2022\Lessons\PR 1\41_Lezione_16_02_Controller\SpaceShooter\bin\Debug\Assets\aivBG.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\41_Lezione_16_02_Controller\SpaceShooter\bin\Debug\Assets\beams.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\41_Lezione_16_02_Controller\SpaceShooter\bin\Debug\Assets\big_ship.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\41_Lezione_16_02_Controller\SpaceShooter\bin\Debug\Assets\blueLaser.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\41_Lezione_16_02_Controller\SpaceShooter\bin\Debug\Assets\comics.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\41_Lezione_16_02_Controller\SpaceShooter\bin\Debug\Assets\enemy_ship.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\41_Lezione_16_02_Controller\SpaceShooter\bin\Debug\Assets\fireGlobe.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\41_Lezione_16_02_Controller\SpaceShooter\bin\Debug\Assets\gameOverBg.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\41_Lezione_16_02_Controller\SpaceShooter\bin\Debug\Assets\greenGlobe.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\41_Lezione_16_02_Controller\SpaceShooter\bin\Debug\Assets\greenLaser.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\41_Lezione_16_02_Controller\SpaceShooter\bin\Debug\Assets\loadingBar_bar.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\41_Lezione_16_02_Controller\SpaceShooter\bin\Debug\Assets\loadingBar_frame.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\41_Lezione_16_02_Controller\SpaceShooter\bin\Debug\Assets\player_ship.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\41_Lezione_16_02_Controller\SpaceShooter\bin\Debug\Assets\powerUp_battery.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\41_Lezione_16_02_Controller\SpaceShooter\bin\Debug\Assets\powerUp_triple.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\41_Lezione_16_02_Controller\SpaceShooter\bin\Debug\Assets\pressEnter.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\41_Lezione_16_02_Controller\SpaceShooter\bin\Debug\Assets\redEnemy_ship.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\41_Lezione_16_02_Controller\SpaceShooter\bin\Debug\Assets\spaceBg.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\41_Lezione_16_02_Controller\SpaceShooter\bin\Debug\Assets\textSheet.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\41_Lezione_16_02_Controller\SpaceShooter\bin\Debug\Assets\welcomeBg.jpg
+D:\AIV - 2021 - 2022\Lessons\PR 1\41_Lezione_16_02_Controller\SpaceShooter\bin\Debug\SpaceShooter.exe.config
+D:\AIV - 2021 - 2022\Lessons\PR 1\41_Lezione_16_02_Controller\SpaceShooter\bin\Debug\SpaceShooter.exe
+D:\AIV - 2021 - 2022\Lessons\PR 1\41_Lezione_16_02_Controller\SpaceShooter\bin\Debug\SpaceShooter.pdb
+D:\AIV - 2021 - 2022\Lessons\PR 1\41_Lezione_16_02_Controller\SpaceShooter\bin\Debug\aiv-fast2d.dll
+D:\AIV - 2021 - 2022\Lessons\PR 1\41_Lezione_16_02_Controller\SpaceShooter\bin\Debug\OpenTK.dll
+D:\AIV - 2021 - 2022\Lessons\PR 1\41_Lezione_16_02_Controller\SpaceShooter\bin\Debug\OpenTK.pdb
+D:\AIV - 2021 - 2022\Lessons\PR 1\41_Lezione_16_02_Controller\SpaceShooter\bin\Debug\OpenTK.xml
+D:\AIV - 2021 - 2022\Lessons\PR 1\41_Lezione_16_02_Controller\SpaceShooter\obj\Debug\SpaceShooter.csproj.AssemblyReference.cache
+D:\AIV - 2021 - 2022\Lessons\PR 1\41_Lezione_16_02_Controller\SpaceShooter\obj\Debug\SpaceShooter.csproj.CoreCompileInputs.cache
+D:\AIV - 2021 - 2022\Lessons\PR 1\41_Lezione_16_02_Controller\SpaceShooter\obj\Debug\SpaceShooter.exe
+D:\AIV - 2021 - 2022\Lessons\PR 1\41_Lezione_16_02_Controller\SpaceShooter\obj\Debug\SpaceShooter.pdb
+C:\Users\chiro\Desktop\Lezioni\41_Lezione_16_02_Controller\SpaceShooter\bin\Debug\Assets\aivBG.png
+C:\Users\chiro\Desktop\Lezioni\41_Lezione_16_02_Controller\SpaceShooter\bin\Debug\Assets\beams.png
+C:\Users\chiro\Desktop\Lezioni\41_Lezione_16_02_Controller\SpaceShooter\bin\Debug\Assets\big_ship.png
+C:\Users\chiro\Desktop\Lezioni\41_Lezione_16_02_Controller\SpaceShooter\bin\Debug\Assets\blueLaser.png
+C:\Users\chiro\Desktop\Lezioni\41_Lezione_16_02_Controller\SpaceShooter\bin\Debug\Assets\comics.png
+C:\Users\chiro\Desktop\Lezioni\41_Lezione_16_02_Controller\SpaceShooter\bin\Debug\Assets\enemy_ship.png
+C:\Users\chiro\Desktop\Lezioni\41_Lezione_16_02_Controller\SpaceShooter\bin\Debug\Assets\fireGlobe.png
+C:\Users\chiro\Desktop\Lezioni\41_Lezione_16_02_Controller\SpaceShooter\bin\Debug\Assets\gameOverBg.png
+C:\Users\chiro\Desktop\Lezioni\41_Lezione_16_02_Controller\SpaceShooter\bin\Debug\Assets\greenGlobe.png
+C:\Users\chiro\Desktop\Lezioni\41_Lezione_16_02_Controller\SpaceShooter\bin\Debug\Assets\greenLaser.png
+C:\Users\chiro\Desktop\Lezioni\41_Lezione_16_02_Controller\SpaceShooter\bin\Debug\Assets\loadingBar_bar.png
+C:\Users\chiro\Desktop\Lezioni\41_Lezione_16_02_Controller\SpaceShooter\bin\Debug\Assets\loadingBar_frame.png
+C:\Users\chiro\Desktop\Lezioni\41_Lezione_16_02_Controller\SpaceShooter\bin\Debug\Assets\player_ship.png
+C:\Users\chiro\Desktop\Lezioni\41_Lezione_16_02_Controller\SpaceShooter\bin\Debug\Assets\powerUp_battery.png
+C:\Users\chiro\Desktop\Lezioni\41_Lezione_16_02_Controller\SpaceShooter\bin\Debug\Assets\powerUp_triple.png
+C:\Users\chiro\Desktop\Lezioni\41_Lezione_16_02_Controller\SpaceShooter\bin\Debug\Assets\pressEnter.png
+C:\Users\chiro\Desktop\Lezioni\41_Lezione_16_02_Controller\SpaceShooter\bin\Debug\Assets\redEnemy_ship.png
+C:\Users\chiro\Desktop\Lezioni\41_Lezione_16_02_Controller\SpaceShooter\bin\Debug\Assets\spaceBg.png
+C:\Users\chiro\Desktop\Lezioni\41_Lezione_16_02_Controller\SpaceShooter\bin\Debug\Assets\textSheet.png
+C:\Users\chiro\Desktop\Lezioni\41_Lezione_16_02_Controller\SpaceShooter\bin\Debug\Assets\welcomeBg.jpg
+C:\Users\chiro\Desktop\Lezioni\41_Lezione_16_02_Controller\SpaceShooter\bin\Debug\SpaceShooter.exe.config
+C:\Users\chiro\Desktop\Lezioni\41_Lezione_16_02_Controller\SpaceShooter\bin\Debug\SpaceShooter.exe
+C:\Users\chiro\Desktop\Lezioni\41_Lezione_16_02_Controller\SpaceShooter\bin\Debug\SpaceShooter.pdb
+C:\Users\chiro\Desktop\Lezioni\41_Lezione_16_02_Controller\SpaceShooter\bin\Debug\aiv-fast2d.dll
+C:\Users\chiro\Desktop\Lezioni\41_Lezione_16_02_Controller\SpaceShooter\bin\Debug\OpenTK.dll
+C:\Users\chiro\Desktop\Lezioni\41_Lezione_16_02_Controller\SpaceShooter\bin\Debug\OpenTK.pdb
+C:\Users\chiro\Desktop\Lezioni\41_Lezione_16_02_Controller\SpaceShooter\bin\Debug\OpenTK.xml
+C:\Users\chiro\Desktop\Lezioni\41_Lezione_16_02_Controller\SpaceShooter\obj\Debug\SpaceShooter.csproj.AssemblyReference.cache
+C:\Users\chiro\Desktop\Lezioni\41_Lezione_16_02_Controller\SpaceShooter\obj\Debug\SpaceShooter.csproj.CoreCompileInputs.cache
+C:\Users\chiro\Desktop\Lezioni\41_Lezione_16_02_Controller\SpaceShooter\obj\Debug\SpaceShooter.csproj.CopyComplete
+C:\Users\chiro\Desktop\Lezioni\41_Lezione_16_02_Controller\SpaceShooter\obj\Debug\SpaceShooter.exe
+C:\Users\chiro\Desktop\Lezioni\41_Lezione_16_02_Controller\SpaceShooter\obj\Debug\SpaceShooter.pdb
+C:\Users\Giuliano Kola\Desktop\Ripasso\si\42_Lezione_23_02_Forward\SpaceShooter\bin\Debug\Assets\aivBG.png
+C:\Users\Giuliano Kola\Desktop\Ripasso\si\42_Lezione_23_02_Forward\SpaceShooter\bin\Debug\Assets\beams.png
+C:\Users\Giuliano Kola\Desktop\Ripasso\si\42_Lezione_23_02_Forward\SpaceShooter\bin\Debug\Assets\big_ship.png
+C:\Users\Giuliano Kola\Desktop\Ripasso\si\42_Lezione_23_02_Forward\SpaceShooter\bin\Debug\Assets\blueLaser.png
+C:\Users\Giuliano Kola\Desktop\Ripasso\si\42_Lezione_23_02_Forward\SpaceShooter\bin\Debug\Assets\comics.png
+C:\Users\Giuliano Kola\Desktop\Ripasso\si\42_Lezione_23_02_Forward\SpaceShooter\bin\Debug\Assets\enemy_ship.png
+C:\Users\Giuliano Kola\Desktop\Ripasso\si\42_Lezione_23_02_Forward\SpaceShooter\bin\Debug\Assets\fireGlobe.png
+C:\Users\Giuliano Kola\Desktop\Ripasso\si\42_Lezione_23_02_Forward\SpaceShooter\bin\Debug\Assets\gameOverBg.png
+C:\Users\Giuliano Kola\Desktop\Ripasso\si\42_Lezione_23_02_Forward\SpaceShooter\bin\Debug\Assets\greenGlobe.png
+C:\Users\Giuliano Kola\Desktop\Ripasso\si\42_Lezione_23_02_Forward\SpaceShooter\bin\Debug\Assets\greenLaser.png
+C:\Users\Giuliano Kola\Desktop\Ripasso\si\42_Lezione_23_02_Forward\SpaceShooter\bin\Debug\Assets\loadingBar_bar.png
+C:\Users\Giuliano Kola\Desktop\Ripasso\si\42_Lezione_23_02_Forward\SpaceShooter\bin\Debug\Assets\loadingBar_frame.png
+C:\Users\Giuliano Kola\Desktop\Ripasso\si\42_Lezione_23_02_Forward\SpaceShooter\bin\Debug\Assets\player_ship.png
+C:\Users\Giuliano Kola\Desktop\Ripasso\si\42_Lezione_23_02_Forward\SpaceShooter\bin\Debug\Assets\powerUp_battery.png
+C:\Users\Giuliano Kola\Desktop\Ripasso\si\42_Lezione_23_02_Forward\SpaceShooter\bin\Debug\Assets\powerUp_triple.png
+C:\Users\Giuliano Kola\Desktop\Ripasso\si\42_Lezione_23_02_Forward\SpaceShooter\bin\Debug\Assets\pressEnter.png
+C:\Users\Giuliano Kola\Desktop\Ripasso\si\42_Lezione_23_02_Forward\SpaceShooter\bin\Debug\Assets\redEnemy_ship.png
+C:\Users\Giuliano Kola\Desktop\Ripasso\si\42_Lezione_23_02_Forward\SpaceShooter\bin\Debug\Assets\spaceBg.png
+C:\Users\Giuliano Kola\Desktop\Ripasso\si\42_Lezione_23_02_Forward\SpaceShooter\bin\Debug\Assets\textSheet.png
+C:\Users\Giuliano Kola\Desktop\Ripasso\si\42_Lezione_23_02_Forward\SpaceShooter\bin\Debug\Assets\welcomeBg.jpg
+C:\Users\Giuliano Kola\Desktop\Ripasso\si\42_Lezione_23_02_Forward\SpaceShooter\bin\Debug\SpaceShooter.exe.config
+C:\Users\Giuliano Kola\Desktop\Ripasso\si\42_Lezione_23_02_Forward\SpaceShooter\bin\Debug\SpaceShooter.exe
+C:\Users\Giuliano Kola\Desktop\Ripasso\si\42_Lezione_23_02_Forward\SpaceShooter\bin\Debug\SpaceShooter.pdb
+C:\Users\Giuliano Kola\Desktop\Ripasso\si\42_Lezione_23_02_Forward\SpaceShooter\bin\Debug\aiv-fast2d.dll
+C:\Users\Giuliano Kola\Desktop\Ripasso\si\42_Lezione_23_02_Forward\SpaceShooter\bin\Debug\OpenTK.dll
+C:\Users\Giuliano Kola\Desktop\Ripasso\si\42_Lezione_23_02_Forward\SpaceShooter\bin\Debug\OpenTK.pdb
+C:\Users\Giuliano Kola\Desktop\Ripasso\si\42_Lezione_23_02_Forward\SpaceShooter\bin\Debug\OpenTK.xml
+C:\Users\Giuliano Kola\Desktop\Ripasso\si\42_Lezione_23_02_Forward\SpaceShooter\obj\Debug\SpaceShooter.csproj.AssemblyReference.cache
+C:\Users\Giuliano Kola\Desktop\Ripasso\si\42_Lezione_23_02_Forward\SpaceShooter\obj\Debug\SpaceShooter.csproj.SuggestedBindingRedirects.cache
+C:\Users\Giuliano Kola\Desktop\Ripasso\si\42_Lezione_23_02_Forward\SpaceShooter\obj\Debug\SpaceShooter.csproj.CoreCompileInputs.cache
+C:\Users\Giuliano Kola\Desktop\Ripasso\si\42_Lezione_23_02_Forward\SpaceShooter\obj\Debug\SpaceShooter.csproj.CopyComplete
+C:\Users\Giuliano Kola\Desktop\Ripasso\si\42_Lezione_23_02_Forward\SpaceShooter\obj\Debug\SpaceShooter.exe
+C:\Users\Giuliano Kola\Desktop\Ripasso\si\42_Lezione_23_02_Forward\SpaceShooter\obj\Debug\SpaceShooter.pdb
+C:\Users\Giuliano Kola\Desktop\scuola (Importante)\si\42_Lezione_23_02_Forward\SpaceShooter\bin\Debug\Assets\aivBG.png
+C:\Users\Giuliano Kola\Desktop\scuola (Importante)\si\42_Lezione_23_02_Forward\SpaceShooter\bin\Debug\Assets\beams.png
+C:\Users\Giuliano Kola\Desktop\scuola (Importante)\si\42_Lezione_23_02_Forward\SpaceShooter\bin\Debug\Assets\big_ship.png
+C:\Users\Giuliano Kola\Desktop\scuola (Importante)\si\42_Lezione_23_02_Forward\SpaceShooter\bin\Debug\Assets\blueLaser.png
+C:\Users\Giuliano Kola\Desktop\scuola (Importante)\si\42_Lezione_23_02_Forward\SpaceShooter\bin\Debug\Assets\comics.png
+C:\Users\Giuliano Kola\Desktop\scuola (Importante)\si\42_Lezione_23_02_Forward\SpaceShooter\bin\Debug\Assets\enemy_ship.png
+C:\Users\Giuliano Kola\Desktop\scuola (Importante)\si\42_Lezione_23_02_Forward\SpaceShooter\bin\Debug\Assets\fireGlobe.png
+C:\Users\Giuliano Kola\Desktop\scuola (Importante)\si\42_Lezione_23_02_Forward\SpaceShooter\bin\Debug\Assets\gameOverBg.png
+C:\Users\Giuliano Kola\Desktop\scuola (Importante)\si\42_Lezione_23_02_Forward\SpaceShooter\bin\Debug\Assets\greenGlobe.png
+C:\Users\Giuliano Kola\Desktop\scuola (Importante)\si\42_Lezione_23_02_Forward\SpaceShooter\bin\Debug\Assets\greenLaser.png
+C:\Users\Giuliano Kola\Desktop\scuola (Importante)\si\42_Lezione_23_02_Forward\SpaceShooter\bin\Debug\Assets\loadingBar_bar.png
+C:\Users\Giuliano Kola\Desktop\scuola (Importante)\si\42_Lezione_23_02_Forward\SpaceShooter\bin\Debug\Assets\loadingBar_frame.png
+C:\Users\Giuliano Kola\Desktop\scuola (Importante)\si\42_Lezione_23_02_Forward\SpaceShooter\bin\Debug\Assets\player_ship.png
+C:\Users\Giuliano Kola\Desktop\scuola (Importante)\si\42_Lezione_23_02_Forward\SpaceShooter\bin\Debug\Assets\powerUp_battery.png
+C:\Users\Giuliano Kola\Desktop\scuola (Importante)\si\42_Lezione_23_02_Forward\SpaceShooter\bin\Debug\Assets\powerUp_triple.png
+C:\Users\Giuliano Kola\Desktop\scuola (Importante)\si\42_Lezione_23_02_Forward\SpaceShooter\bin\Debug\Assets\pressEnter.png
+C:\Users\Giuliano Kola\Desktop\scuola (Importante)\si\42_Lezione_23_02_Forward\SpaceShooter\bin\Debug\Assets\redEnemy_ship.png
+C:\Users\Giuliano Kola\Desktop\scuola (Importante)\si\42_Lezione_23_02_Forward\SpaceShooter\bin\Debug\Assets\spaceBg.png
+C:\Users\Giuliano Kola\Desktop\scuola (Importante)\si\42_Lezione_23_02_Forward\SpaceShooter\bin\Debug\Assets\textSheet.png
+C:\Users\Giuliano Kola\Desktop\scuola (Importante)\si\42_Lezione_23_02_Forward\SpaceShooter\bin\Debug\Assets\welcomeBg.jpg
+C:\Users\Giuliano Kola\Desktop\scuola (Importante)\si\42_Lezione_23_02_Forward\SpaceShooter\bin\Debug\SpaceShooter.exe.config
+C:\Users\Giuliano Kola\Desktop\scuola (Importante)\si\42_Lezione_23_02_Forward\SpaceShooter\bin\Debug\SpaceShooter.exe
+C:\Users\Giuliano Kola\Desktop\scuola (Importante)\si\42_Lezione_23_02_Forward\SpaceShooter\bin\Debug\SpaceShooter.pdb
+C:\Users\Giuliano Kola\Desktop\scuola (Importante)\si\42_Lezione_23_02_Forward\SpaceShooter\bin\Debug\aiv-fast2d.dll
+C:\Users\Giuliano Kola\Desktop\scuola (Importante)\si\42_Lezione_23_02_Forward\SpaceShooter\bin\Debug\OpenTK.dll
+C:\Users\Giuliano Kola\Desktop\scuola (Importante)\si\42_Lezione_23_02_Forward\SpaceShooter\bin\Debug\OpenTK.pdb
+C:\Users\Giuliano Kola\Desktop\scuola (Importante)\si\42_Lezione_23_02_Forward\SpaceShooter\bin\Debug\OpenTK.xml
+C:\Users\Giuliano Kola\Desktop\scuola (Importante)\si\42_Lezione_23_02_Forward\SpaceShooter\obj\Debug\SpaceShooter.csproj.AssemblyReference.cache
+C:\Users\Giuliano Kola\Desktop\scuola (Importante)\si\42_Lezione_23_02_Forward\SpaceShooter\obj\Debug\SpaceShooter.csproj.SuggestedBindingRedirects.cache
+C:\Users\Giuliano Kola\Desktop\scuola (Importante)\si\42_Lezione_23_02_Forward\SpaceShooter\obj\Debug\SpaceShooter.csproj.CoreCompileInputs.cache
+C:\Users\Giuliano Kola\Desktop\scuola (Importante)\si\42_Lezione_23_02_Forward\SpaceShooter\obj\Debug\SpaceShooter.csproj.CopyComplete
+C:\Users\Giuliano Kola\Desktop\scuola (Importante)\si\42_Lezione_23_02_Forward\SpaceShooter\obj\Debug\SpaceShooter.exe
+C:\Users\Giuliano Kola\Desktop\scuola (Importante)\si\42_Lezione_23_02_Forward\SpaceShooter\obj\Debug\SpaceShooter.pdb
+D:\Video AIV\scuola (Importante)\AIV Primo anno\File inviati\42_Lezione_23_02_Forward\SpaceShooter\bin\Debug\Assets\aivBG.png
+D:\Video AIV\scuola (Importante)\AIV Primo anno\File inviati\42_Lezione_23_02_Forward\SpaceShooter\bin\Debug\Assets\beams.png
+D:\Video AIV\scuola (Importante)\AIV Primo anno\File inviati\42_Lezione_23_02_Forward\SpaceShooter\bin\Debug\Assets\big_ship.png
+D:\Video AIV\scuola (Importante)\AIV Primo anno\File inviati\42_Lezione_23_02_Forward\SpaceShooter\bin\Debug\Assets\blueLaser.png
+D:\Video AIV\scuola (Importante)\AIV Primo anno\File inviati\42_Lezione_23_02_Forward\SpaceShooter\bin\Debug\Assets\comics.png
+D:\Video AIV\scuola (Importante)\AIV Primo anno\File inviati\42_Lezione_23_02_Forward\SpaceShooter\bin\Debug\Assets\enemy_ship.png
+D:\Video AIV\scuola (Importante)\AIV Primo anno\File inviati\42_Lezione_23_02_Forward\SpaceShooter\bin\Debug\Assets\fireGlobe.png
+D:\Video AIV\scuola (Importante)\AIV Primo anno\File inviati\42_Lezione_23_02_Forward\SpaceShooter\bin\Debug\Assets\gameOverBg.png
+D:\Video AIV\scuola (Importante)\AIV Primo anno\File inviati\42_Lezione_23_02_Forward\SpaceShooter\bin\Debug\Assets\greenGlobe.png
+D:\Video AIV\scuola (Importante)\AIV Primo anno\File inviati\42_Lezione_23_02_Forward\SpaceShooter\bin\Debug\Assets\greenLaser.png
+D:\Video AIV\scuola (Importante)\AIV Primo anno\File inviati\42_Lezione_23_02_Forward\SpaceShooter\bin\Debug\Assets\loadingBar_bar.png
+D:\Video AIV\scuola (Importante)\AIV Primo anno\File inviati\42_Lezione_23_02_Forward\SpaceShooter\bin\Debug\Assets\loadingBar_frame.png
+D:\Video AIV\scuola (Importante)\AIV Primo anno\File inviati\42_Lezione_23_02_Forward\SpaceShooter\bin\Debug\Assets\player_ship.png
+D:\Video AIV\scuola (Importante)\AIV Primo anno\File inviati\42_Lezione_23_02_Forward\SpaceShooter\bin\Debug\Assets\powerUp_battery.png
+D:\Video AIV\scuola (Importante)\AIV Primo anno\File inviati\42_Lezione_23_02_Forward\SpaceShooter\bin\Debug\Assets\powerUp_triple.png
+D:\Video AIV\scuola (Importante)\AIV Primo anno\File inviati\42_Lezione_23_02_Forward\SpaceShooter\bin\Debug\Assets\pressEnter.png
+D:\Video AIV\scuola (Importante)\AIV Primo anno\File inviati\42_Lezione_23_02_Forward\SpaceShooter\bin\Debug\Assets\redEnemy_ship.png
+D:\Video AIV\scuola (Importante)\AIV Primo anno\File inviati\42_Lezione_23_02_Forward\SpaceShooter\bin\Debug\Assets\spaceBg.png
+D:\Video AIV\scuola (Importante)\AIV Primo anno\File inviati\42_Lezione_23_02_Forward\SpaceShooter\bin\Debug\Assets\textSheet.png
+D:\Video AIV\scuola (Importante)\AIV Primo anno\File inviati\42_Lezione_23_02_Forward\SpaceShooter\bin\Debug\Assets\welcomeBg.jpg
+D:\Video AIV\scuola (Importante)\AIV Primo anno\File inviati\42_Lezione_23_02_Forward\SpaceShooter\bin\Debug\SpaceShooter.exe.config
+D:\Video AIV\scuola (Importante)\AIV Primo anno\File inviati\42_Lezione_23_02_Forward\SpaceShooter\bin\Debug\SpaceShooter.exe
+D:\Video AIV\scuola (Importante)\AIV Primo anno\File inviati\42_Lezione_23_02_Forward\SpaceShooter\bin\Debug\SpaceShooter.pdb
+D:\Video AIV\scuola (Importante)\AIV Primo anno\File inviati\42_Lezione_23_02_Forward\SpaceShooter\bin\Debug\aiv-fast2d.dll
+D:\Video AIV\scuola (Importante)\AIV Primo anno\File inviati\42_Lezione_23_02_Forward\SpaceShooter\bin\Debug\OpenTK.dll
+D:\Video AIV\scuola (Importante)\AIV Primo anno\File inviati\42_Lezione_23_02_Forward\SpaceShooter\bin\Debug\OpenTK.pdb
+D:\Video AIV\scuola (Importante)\AIV Primo anno\File inviati\42_Lezione_23_02_Forward\SpaceShooter\bin\Debug\OpenTK.xml
+D:\Video AIV\scuola (Importante)\AIV Primo anno\File inviati\42_Lezione_23_02_Forward\SpaceShooter\obj\Debug\SpaceShooter.csproj.AssemblyReference.cache
+D:\Video AIV\scuola (Importante)\AIV Primo anno\File inviati\42_Lezione_23_02_Forward\SpaceShooter\obj\Debug\SpaceShooter.csproj.CoreCompileInputs.cache
+D:\Video AIV\scuola (Importante)\AIV Primo anno\File inviati\42_Lezione_23_02_Forward\SpaceShooter\obj\Debug\SpaceSho.6D435337.Up2Date
+D:\Video AIV\scuola (Importante)\AIV Primo anno\File inviati\42_Lezione_23_02_Forward\SpaceShooter\obj\Debug\SpaceShooter.exe
+D:\Video AIV\scuola (Importante)\AIV Primo anno\File inviati\42_Lezione_23_02_Forward\SpaceShooter\obj\Debug\SpaceShooter.pdb
